@@ -1,0 +1,875 @@
+,Kms_driven,Petrol_Diesel,Car_Type,Car_owner_Type,Price,Manufacture Year,Brand
+0,59.27k km,Petrol,Manual,"('2nd', ' owner')",₹2.73 lakh,2015,Hyundai i10
+1,46.89k km,Petrol,Manual,"('1st', ' owner')",₹2.62 lakh,2013,Maruti Wagon R 1.0
+2,21.27k km,Petrol,Manual,"('1st', ' owner')",₹2.37 lakh,2016,Renault Kwid
+3,41.20k km,Petrol,Manual,"('2nd', ' owner')",₹2.27 lakh,2016,Renault Kwid
+4,39.74k km,Petrol,Manual,"('1st', ' owner')",₹2.74 lakh,2016,Maruti Alto K10
+5,83.98k km,Petrol,Manual,"('1st', ' owner')",₹2.21 lakh,2016,Renault Kwid
+6,24.06k km,Petrol,Manual,"('1st', ' owner')",₹3.83 lakh,2016,Nissan Terrano
+7,82.23k km,Petrol,Manual,"('1st', ' owner')",₹3.69 lakh,2015,Maruti Swift Dzire
+8,12.79k km,Petrol,Manual,"('1st', ' owner')",₹3.57L₹3.40 lakh,2014,Hyundai Elite i20
+9,17.14k km,Petrol,Manual,"('1st', ' owner')",₹3.66 lakh,2017,Maruti Wagon R 1.0
+10,50.25k km,Petrol,Auto,"('1st', ' owner')",₹3.53 lakh,2019,Maruti S PRESSO
+11,,Petrol,Manual,"('1st', ' owner')",₹3.46 lakh,2020,Maruti Alto
+12,14.79k km,Petrol,Auto,"('1st', ' owner')",₹4.19 lakh,2022,Renault Kwid
+13,27.60k km,Petrol,Auto,"('2nd', ' owner')",₹3.31L₹3.10 lakh,2015,Maruti Celerio
+14,51.58k km,Petrol,Auto,"('1st', ' owner')",₹3.12L₹3.00 lakh,2015,Maruti Celerio
+15,79.37k km,Petrol,Manual,"('1st', ' owner')",₹4.57 lakh,2015,Honda City
+16,28.04k km,CNG,Manual,"('1st', ' owner')",₹6.79 lakh,2022,Tata TIGOR
+17,39.73k km,Petrol,Manual,"('1st', ' owner')",₹8.67 lakh,2022,KIA SONET
+18,83.50k km,Petrol,Manual,"('1st', ' owner')",₹5.51 lakh,2018,Maruti Ciaz
+19,91.70k km,Petrol,Manual,"('1st', ' owner')",₹4.33 lakh,2015,Honda City
+20,,Petrol,Manual,"('1st', ' owner')",₹1.57 lakh,,
+21,96.17k km,Diesel,Manual,"('1st', ' owner')",₹5.56 lakh,,
+22,32.20k km,Petrol,Auto,"('1st', ' owner')",₹6.32 lakh,,
+23,65.53k km,Petrol,Manual,"('1st', ' owner')",₹5.54 lakh,,
+24,96.18k km,Petrol,Manual,"('1st', ' owner')",₹4.24L₹3.66 lakh,,
+25,53.68k km,Petrol,Manual,"('1st', ' owner')",₹6.00 lakh,,
+26,,Petrol,Auto,"('1st', ' owner')",₹3.60 lakh,,
+27,62.79k km,Petrol,Manual,"('1st', ' owner')",₹5.43 lakh,,
+28,52.44k km,Petrol,Manual,"('1st', ' owner')",₹4.98 lakh,,
+29,33.77k km,Petrol,Auto,"('1st', ' owner')",₹6.00 lakh,,
+30,74.38k km,Petrol,Manual,"('1st', ' owner')",₹4.25 lakh,,
+31,47.40k km,CNG,Manual,"('1st', ' owner')",₹4.94 lakh,,
+32,88.64k km,Petrol,Manual,"('2nd', ' owner')",₹3.17 lakh,,
+33,42.06k km,Petrol,Manual,"('1st', ' owner')",₹6.14 lakh,,
+34,49.96k km,Petrol,Manual,"('2nd', ' owner')",₹2.97 lakh,,
+35,93.19k km,Petrol,Auto,"('1st', ' owner')",₹9.67 lakh,,
+36,42.17k km,Petrol,Manual,"('1st', ' owner')",₹5.96 lakh,,
+37,71.25k km,Diesel,Manual,"('1st', ' owner')",₹5.02 lakh,,
+38,43.79k km,Diesel,Manual,"('1st', ' owner')",₹8.65 lakh,,
+39,37.89k km,Petrol,Auto,"('2nd', ' owner')",₹9.61 lakh,,
+40,11.86k km,Petrol,Auto,"('1st', ' owner')",₹8.66 lakh,,
+41,40.87k km,Petrol,Manual,"('1st', ' owner')",₹6.11 lakh,,
+42,20.74k km,Petrol,Manual,"('1st', ' owner')",₹10.74 lakh,,
+43,22.42k km,CNG,Manual,"('1st', ' owner')",₹7.80L₹7.50 lakh,,
+44,34.78k km,Petrol,Auto,"('1st', ' owner')",₹8.34 lakh,,
+45,26.99k km,Petrol,Auto,"('1st', ' owner')",₹15.48 lakh,,
+46,59.89k km,Petrol,Manual,"('1st', ' owner')",₹3.69 lakh,,
+47,32.21k km,Petrol,Manual,"('1st', ' owner')",₹2.52 lakh,,
+48,34.66k km,Diesel,Manual,"('1st', ' owner')",₹8.55L₹8.20 lakh,,
+49,38.76k km,Petrol,Manual,"('1st', ' owner')",₹4.63L₹4.67 lakh,,
+50,32.39k km,Petrol,Manual,"('1st', ' owner')",₹5.16L₹4.99 lakh,,
+51,62.03k km,Diesel,Manual,"('2nd', ' owner')",₹10.09L₹9.60 lakh,,
+52,15.66k km,Petrol,Manual,"('1st', ' owner')",₹4.89L₹3.68 lakh,,
+53,,Petrol,Manual,"('1st', ' owner')",₹4.55 lakh,,
+54,17.47k km,Diesel,Manual,"('1st', ' owner')",₹8.46L₹8.30 lakh,,
+55,21.77k km,Petrol,Manual,"('1st', ' owner')",₹4.99 lakh,,
+56,25.88k km,Petrol,Manual,"('1st', ' owner')",₹8.33L₹6.80 lakh,,
+57,70.18k km,CNG,Manual,"('1st', ' owner')",₹3.75 lakh,,
+58,67.43k km,Petrol,Manual,"('1st', ' owner')",₹7.21L₹6.80 lakh,,
+59,25.23k km,Petrol,Manual,"('1st', ' owner')",₹2.49 lakh,,
+60,59.27k km,Petrol,Manual,"('2nd', ' owner')",₹4.45 lakh,2016,Volkswagen Ameo
+61,76.77k km,Petrol,Manual,"('1st', ' owner')",₹5.05 lakh,2015,Skoda Rapid
+62,54.35k km,Petrol,Auto,"('1st', ' owner')",₹6.96 lakh,2017,Volkswagen Vento
+63,63.71k km,Petrol,Manual,"('2nd', ' owner')",₹2.77 lakh,2013,Hyundai i10
+64,19.17k km,Petrol,Manual,"('1st', ' owner')",₹6.82L₹6.55 lakh,2022,Nissan MAGNITE
+65,65.48k km,Petrol,Manual,"('2nd', ' owner')",₹2.65 lakh,2013,Hyundai Santro Xing
+66,19.57k km,Petrol,Manual,"('1st', ' owner')",₹3.39 lakh,2017,Renault Kwid
+67,66.53k km,Petrol,Manual,"('1st', ' owner')",₹4.11 lakh,2015,Honda Amaze
+68,38.94k km,Petrol,Auto,"('2nd', ' owner')",₹3.15 lakh,2017,Renault Kwid
+69,44.05k km,Petrol,Auto,"('2nd', ' owner')",₹6.56 lakh,2018,Hyundai Elite i20
+70,61.22k km,Petrol,Manual,"('1st', ' owner')",₹5.87 lakh,2018,Hyundai i20 Active
+71,17.57k km,Petrol,Auto,"('1st', ' owner')",₹6.21 lakh,2018,Maruti IGNIS
+72,73.70k km,Petrol,Manual,"('1st', ' owner')",₹5.71 lakh,2019,Hyundai Elite i20
+73,53.01k km,Petrol,Manual,"('1st', ' owner')",₹4.29 lakh,2013,Volkswagen Polo
+74,17.94k km,Petrol,Auto,"('1st', ' owner')",₹4.80 lakh,2017,Tata Tiago
+75,30.79k km,Petrol,Manual,"('1st', ' owner')",₹6.84 lakh,2018,Hyundai Elite i20
+76,29.91k km,Petrol,Auto,"('1st', ' owner')",₹5.49 lakh,2020,Renault TRIBER
+77,38.60k km,Petrol,Manual,"('2nd', ' owner')",₹3.18 lakh,2017,Renault Kwid
+78,87.99k km,Petrol,Manual,"('2nd', ' owner')",₹3.59 lakh,2017,Hyundai Grand i10
+79,24.83k km,Petrol,Manual,"('1st', ' owner')",₹4.40 lakh,2023,Renault Kwid
+80,31.11k km,Petrol,Manual,"('1st', ' owner')",₹6.49L₹5.86 lakh,2021,Hyundai NEW I20
+81,30.12k km,Petrol,Auto,"('1st', ' owner')",₹3.88 lakh,2018,Maruti Celerio X
+82,52.94k km,Diesel,Manual,"('1st', ' owner')",₹3.00 lakh,2012,Maruti Swift Dzire
+83,42.79k km,Petrol,Manual,"('1st', ' owner')",₹2.29 lakh,2013,Maruti Wagon R 1.0
+84,,Petrol,Manual,"('1st', ' owner')",₹11.08 lakh,2024,KIA CARENS
+85,22.52k km,Petrol,Auto,"('2nd', ' owner')",₹3.84 lakh,2021,Maruti S PRESSO
+86,27.52k km,Diesel,Manual,"('1st', ' owner')",₹11.70 lakh,2022,Mahindra Thar
+87,18.56k km,Petrol,Manual,"('1st', ' owner')",₹3.27L₹3.08 lakh,2022,Maruti Alto
+88,30.03k km,Petrol,Manual,"('1st', ' owner')",₹3.34 lakh,2016,Hyundai Grand i10
+89,84.43k km,Diesel,Manual,"('1st', ' owner')",₹7.80L₹7.30 lakh,2018,Jeep Compass
+90,34.53k km,Petrol,Manual,"('1st', ' owner')",₹5.93L₹5.40 lakh,2022,Nissan MAGNITE
+91,83.50k km,Petrol,Manual,"('1st', ' owner')",₹2.04L₹1.92 lakh,2014,Maruti Ritz
+92,31.59k km,Petrol,Manual,"('1st', ' owner')",₹4.78L₹4.50 lakh,2021,Tata ALTROZ
+93,33.88k km,Petrol,Manual,"('1st', ' owner')",₹7.95 lakh,2022,Tata ALTROZ
+94,59.02k km,Petrol,Manual,"('2nd', ' owner')",₹3.60L₹2.90 lakh,2016,Volkswagen Ameo
+95,79.61k km,Petrol,Manual,"('1st', ' owner')",₹10.77 lakh,2020,KIA SELTOS
+96,17.02k km,Petrol,Auto,"('2nd', ' owner')",₹6.14L₹4.30 lakh,2021,Tata Tiago
+97,,Petrol,Auto,"('1st', ' owner')",₹13.18L₹11.80 lakh,2023,Honda ELEVATE
+98,75.33k km,Petrol,Manual,"('1st', ' owner')",₹2.06L₹1.85 lakh,2016,Maruti Alto 800
+99,14.36k km,Petrol,Manual,"('1st', ' owner')",₹9.28 lakh,2022,KIA SELTOS
+100,36.87k km,Petrol,Manual,"('2nd', ' owner')",₹4.20L₹3.75 lakh,2017,Hyundai Grand i10
+101,55.41k km,Diesel,Manual,"('1st', ' owner')",₹5.29 lakh,2015,Maruti Swift Dzire
+102,50.17k km,Petrol,Manual,"('1st', ' owner')",₹4.72 lakh,2019,Maruti New Wagon-R
+103,26.30k km,Petrol,Manual,"('1st', ' owner')",₹5.50L₹5.30 lakh,2017,Hyundai Elite i20
+104,18.39k km,Petrol,Manual,"('2nd', ' owner')",₹3.60 lakh,2021,Renault Kwid
+105,77.05k km,Petrol,Manual,"('1st', ' owner')",₹4.24 lakh,2017,Tata TIGOR
+106,,Petrol,Manual,"('1st', ' owner')",₹4.75 lakh,2018,Honda Amaze
+107,38.51k km,Petrol,Manual,"('1st', ' owner')",₹2.56 lakh,2016,Renault Kwid
+108,88.42k km,Petrol,Manual,"('1st', ' owner')",₹4.03 lakh,2015,Honda Amaze
+109,,Petrol,Manual,"('1st', ' owner')",₹6.52 lakh,2023,Tata PUNCH
+110,,Petrol,Auto,"('1st', ' owner')",₹7.44 lakh,2023,Tata PUNCH
+111,,Diesel,Manual,"('1st', ' owner')",₹6.65 lakh,2021,Honda Amaze
+112,75.29k km,Diesel,Manual,"('2nd', ' owner')",₹9.06 lakh,2018,Mahindra XUV500
+113,54.74k km,Diesel,Manual,"('1st', ' owner')",₹5.00 lakh,2017,Mahindra TUV300
+114,23.29k km,Petrol,Manual,,₹3.20 lakh,2020,Maruti Alto
+115,11.66k km,Petrol,Manual,"('1st', ' owner')",₹4.44 lakh,2023,Renault Kwid
+116,,Petrol,Auto,"('1st', ' owner')",₹8.02 lakh,2021,Tata NEXON
+117,52.51k km,Petrol,Manual,"('2nd', ' owner')",₹5.54 lakh,2017,Tata NEXON
+118,47.72k km,Petrol,Manual,"('2nd', ' owner')",₹6.99 lakh,2019,Hyundai Verna
+119,,Diesel,Manual,"('1st', ' owner')",,2011,Ford Figo
+120,26.54k km,Petrol,Auto,"('1st', ' owner')",₹2.88 lakh,2018,Datsun Redi Go
+121,33.45k km,Petrol,Auto,"('1st', ' owner')",₹3.21 lakh,2017,Renault Kwid
+122,97.65k km,Diesel,Manual,"('2nd', ' owner')",₹4.69 lakh,2016,Ford Ecosport
+123,45.59k km,CNG,Manual,"('1st', ' owner')",₹6.39 lakh,2022,Tata TIGOR
+124,64.20k km,Petrol,Manual,"('1st', ' owner')",₹5.03L₹5.05 lakh,2013,Maruti Ertiga
+125,31.29k km,CNG,Manual,"('1st', ' owner')",₹6.91 lakh,2022,Maruti Swift Dzire
+126,68.34k km,Petrol,Auto,"('1st', ' owner')",₹3.75 lakh,2017,Maruti Wagon R 1.0
+127,33.10k km,Petrol,Manual,"('1st', ' owner')",₹3.40 lakh,2013,Hyundai Grand i10
+128,27.49k km,Petrol,Manual,"('1st', ' owner')",₹5.08 lakh,2023,Maruti Alto K10
+129,72.61k km,CNG,Manual,"('1st', ' owner')",₹3.35 lakh,2014,Maruti Wagon R 1.0
+130,32.05k km,Petrol,Manual,"('2nd', ' owner')",₹5.41 lakh,2018,Maruti Dzire
+131,35.61k km,Diesel,Auto,"('1st', ' owner')",₹38.50 lakh,2022,BMW X1
+132,42.29k km,Petrol,Manual,"('1st', ' owner')",₹5.37 lakh,2019,Volkswagen Polo
+133,20.23k km,Petrol,Manual,"('2nd', ' owner')",₹9.74L₹7.30 lakh,2021,Skoda Rapid
+134,27.85k km,Petrol,Manual,"('1st', ' owner')",₹3.44 lakh,2020,Renault Kwid
+135,57.46k km,Diesel,Auto,"('2nd', ' owner')",₹22.50 lakh,2016,Audi A6
+136,32.90k km,Diesel,Manual,"('1st', ' owner')",₹7.60 lakh,2015,Hyundai Creta
+137,69.47k km,Petrol,Manual,"('1st', ' owner')",₹5.00 lakh,2016,Maruti Baleno
+138,61.24k km,Petrol,Manual,"('2nd', ' owner')",₹2.87L₹2.78 lakh,2017,Maruti Alto K10
+139,64.81k km,Petrol,Auto,"('1st', ' owner')",₹7.33 lakh,2022,Honda Amaze
+140,,Petrol,Auto,"('1st', ' owner')",₹9.06L₹8.70 lakh,,
+141,68.95k km,Petrol,Auto,"('2nd', ' owner')",₹5.37 lakh,,
+142,88.43k km,Petrol,Auto,"('2nd', ' owner')",₹3.95 lakh,,
+143,62.70k km,Petrol,Manual,"('1st', ' owner')",₹5.89 lakh,,
+144,85.18k km,Petrol,Manual,"('1st', ' owner')",₹4.08 lakh,,
+145,43.69k km,Petrol,Manual,"('1st', ' owner')",₹5.39 lakh,,
+146,27.81k km,Petrol,Manual,"('1st', ' owner')",₹5.47 lakh,,
+147,40.25k km,Petrol,Manual,"('1st', ' owner')",₹7.38 lakh,,
+148,,Petrol,Manual,"('1st', ' owner')",₹5.01 lakh,,
+149,30.48k km,Diesel,Manual,"('1st', ' owner')",₹13.85 lakh,,
+150,35.90k km,Petrol,Manual,"('1st', ' owner')",₹6.20L₹5.68 lakh,,
+151,38.52k km,Petrol,Manual,"('1st', ' owner')",₹3.69L₹3.44 lakh,,
+152,34.41k km,Petrol,Manual,"('1st', ' owner')",₹5.79L₹4.59 lakh,,
+153,84.00k km,Petrol,Manual,"('2nd', ' owner')",₹3.08 lakh,,
+154,93.14k km,Petrol,Manual,"('1st', ' owner')",₹4.44L₹3.53 lakh,,
+155,45.74k km,Petrol,Manual,"('1st', ' owner')",₹1.83L₹1.63 lakh,,
+156,35.10k km,Petrol,Manual,"('2nd', ' owner')",₹5.62L₹5.30 lakh,,
+157,39.99k km,Diesel,Manual,"('2nd', ' owner')",₹11.04L₹10.39 lakh,,
+158,79.19k km,Petrol,Manual,"('1st', ' owner')",₹3.15L₹2.39 lakh,,
+159,,Petrol,Manual,"('1st', ' owner')",₹5.89L₹5.83 lakh,,
+160,53.38k km,Petrol,Manual,"('2nd', ' owner')",₹4.24 lakh,2018,Honda Amaze
+161,35.34k km,Petrol,Manual,"('1st', ' owner')",₹2.84L₹2.73 lakh,2018,Hyundai Eon
+162,93.68k km,CNG,Manual,"('1st', ' owner')",₹3.24L₹3.15 lakh,2015,Hyundai i10
+163,39.97k km,Petrol,Manual,"('2nd', ' owner')",₹3.21 lakh,2021,Maruti Alto
+164,43.35k km,CNG,Manual,"('1st', ' owner')",₹4.67 lakh,2020,Maruti New Wagon-R
+165,40.19k km,Diesel,Manual,"('1st', ' owner')",₹6.62 lakh,2022,Tata ALTROZ
+166,15.71k km,Petrol,Manual,"('1st', ' owner')",₹5.34 lakh,2020,Tata TIGOR
+167,62.88k km,Petrol,Manual,"('1st', ' owner')",₹5.14 lakh,2018,Maruti Dzire
+168,82.26k km,CNG,Manual,"('1st', ' owner')",₹4.72 lakh,2017,Maruti Swift
+169,44.00k km,Petrol,Manual,"('2nd', ' owner')",₹2.66 lakh,2019,Maruti Alto
+170,46.53k km,Petrol,Manual,"('1st', ' owner')",₹6.11L₹5.95 lakh,2023,Tata PUNCH
+171,28.19k km,Petrol,Manual,"('2nd', ' owner')",₹6.06 lakh,2020,Hyundai Elite i20
+172,25.69k km,Petrol,Auto,"('2nd', ' owner')",₹9.09 lakh,2020,Honda City
+173,12.34k km,CNG,Manual,"('1st', ' owner')",₹3.66 lakh,2019,Maruti Alto
+174,12.40k km,Petrol,Auto,"('1st', ' owner')",₹6.45L₹6.35 lakh,2022,Tata TIAGO NRG
+175,39.70k km,Petrol,Manual,"('1st', ' owner')",₹6.94L₹6.81 lakh,2023,Maruti Baleno
+176,32.69k km,Diesel,Manual,"('1st', ' owner')",₹11.90L₹10.15 lakh,2023,Tata NEXON
+177,20.71k km,Petrol,Auto,"('1st', ' owner')",₹6.89 lakh,2023,Nissan MAGNITE
+178,56.36k km,Diesel,Manual,"('1st', ' owner')",₹4.06 lakh,2017,Volkswagen Ameo
+179,44.18k km,Petrol,Manual,"('1st', ' owner')",₹7.15 lakh,2022,Mahindra XUV300
+180,76.18k km,Diesel,Auto,"('1st', ' owner')",₹11.17L₹10.99 lakh,2020,Mahindra Thar
+181,33.41k km,Petrol,Manual,"('1st', ' owner')",₹7.70L₹6.60 lakh,2023,Tata PUNCH
+182,13.48k km,Petrol,Manual,"('1st', ' owner')",₹6.90 lakh,2022,Tata NEXON
+183,30.11k km,Petrol,Manual,"('1st', ' owner')",₹4.32 lakh,2020,Tata Tiago
+184,27.29k km,Petrol,Manual,"('1st', ' owner')",₹4.57 lakh,2022,Hyundai NEW SANTRO
+185,36.29k km,Petrol,Manual,"('1st', ' owner')",₹8.64L₹7.20 lakh,2022,Hyundai NEW I20
+186,20.56k km,Petrol,Manual,"('1st', ' owner')",₹3.37 lakh,2022,Maruti Alto
+187,29.83k km,Diesel,Manual,"('1st', ' owner')",₹12.21L₹10.99 lakh,2022,Mahindra Scorpio
+188,62.20k km,Petrol,Auto,"('1st', ' owner')",₹5.22L₹5.15 lakh,2019,Hyundai Elite i20
+189,48.71k km,Petrol,Manual,"('1st', ' owner')",₹5.15L₹4.80 lakh,2020,Hyundai AURA
+190,28.63k km,Petrol,Manual,"('1st', ' owner')",₹5.40 lakh,2017,Honda City
+191,50.24k km,Petrol,Manual,"('1st', ' owner')",₹5.25 lakh,2020,Maruti Baleno
+192,68.35k km,CNG,Manual,"('1st', ' owner')",₹10.25 lakh,2021,Maruti Ertiga
+193,92.33k km,Diesel,Manual,"('2nd', ' owner')",₹7.43L₹6.80 lakh,2017,Hyundai Creta
+194,30.51k km,Petrol,Manual,"('1st', ' owner')",₹4.85L₹4.15 lakh,2019,Maruti New Wagon-R
+195,38.11k km,Petrol,Manual,"('1st', ' owner')",₹4.12L₹3.40 lakh,2023,Maruti Alto
+196,70.57k km,Diesel,Manual,"('2nd', ' owner')",₹8.06L₹7.60 lakh,2018,Mahindra XUV500
+197,69.04k km,Petrol,Manual,"('2nd', ' owner')",₹5.59L₹4.45 lakh,2018,Maruti Baleno
+198,32.49k km,Petrol,Manual,"('1st', ' owner')",₹4.08L₹3.30 lakh,2020,Renault Kwid
+199,85.29k km,Petrol,Manual,"('1st', ' owner')",₹5.59L₹5.30 lakh,2021,Maruti Baleno
+200,42.08k km,Petrol,Manual,"('2nd', ' owner')",₹5.50 lakh,,
+201,63.73k km,Diesel,Manual,"('1st', ' owner')",₹9.00 lakh,,
+202,72.90k km,Petrol,Manual,"('1st', ' owner')",₹5.57L₹4.70 lakh,,
+203,48.35k km,Petrol,Manual,"('1st', ' owner')",₹12.31L₹10.50 lakh,,
+204,55.55k km,Petrol,Manual,"('1st', ' owner')",₹7.55 lakh,,
+205,,Petrol,Manual,"('1st', ' owner')",₹5.50 lakh,,
+206,69.11k km,Petrol,Manual,"('1st', ' owner')",₹5.50L₹5.40 lakh,,
+207,45.39k km,Petrol,Manual,"('1st', ' owner')",₹7.60L₹6.35 lakh,,
+208,45.68k km,Petrol,Manual,"('1st', ' owner')",₹7.09L₹6.90 lakh,,
+209,25.48k km,Petrol,Auto,"('1st', ' owner')",₹9.71L₹8.30 lakh,,
+210,60.25k km,Petrol,Manual,"('1st', ' owner')",₹3.30 lakh,,
+211,73.92k km,Petrol,Manual,"('1st', ' owner')",₹6.18L₹5.94 lakh,,
+212,37.98k km,Petrol,Manual,"('1st', ' owner')",₹10.87L₹9.65 lakh,,
+213,45.08k km,Diesel,Auto,"('1st', ' owner')",₹23.00 lakh,,
+214,71.34k km,Petrol,Manual,"('1st', ' owner')",₹3.20 lakh,,
+215,15.91k km,Petrol,Manual,"('1st', ' owner')",₹9.52L₹9.10 lakh,,
+216,99.40k km,Diesel,Manual,"('1st', ' owner')",₹10.50 lakh,,
+217,78.15k km,Petrol,Manual,"('1st', ' owner')",₹6.22L₹5.84 lakh,,
+218,58.13k km,Petrol,Manual,"('1st', ' owner')",₹5.30L₹4.40 lakh,,
+219,66.68k km,Petrol,Manual,"('1st', ' owner')",₹10.00L₹9.80 lakh,,
+220,15.55k km,Petrol,Manual,"('1st', ' owner')",₹5.81 lakh,2021,Maruti Baleno
+221,,Petrol,Manual,"('1st', ' owner')",₹7.24L₹6.96 lakh,2024,Hyundai GRAND I10 NIOS
+222,23.45k km,Petrol,Manual,"('1st', ' owner')",₹9.91L₹9.70 lakh,2022,Skoda SLAVIA
+223,81.95k km,Petrol,Manual,"('1st', ' owner')",₹4.59L₹3.70 lakh,2016,Maruti Swift
+224,38.53k km,Petrol,Manual,"('1st', ' owner')",₹8.06 lakh,2022,Maruti BREZZA
+225,26.68k km,Petrol,Manual,"('1st', ' owner')",₹8.23 lakh,2021,Mahindra XUV300
+226,82.04k km,Petrol,Manual,"('1st', ' owner')",₹4.75L₹3.68 lakh,2015,Hyundai Grand i10
+227,92.83k km,Petrol,Manual,"('1st', ' owner')",₹3.34L₹2.75 lakh,2013,Volkswagen Polo
+228,77.94k km,Petrol,Manual,"('2nd', ' owner')",₹8.74L₹6.78 lakh,2021,Skoda Rapid
+229,29.37k km,CNG,Manual,"('2nd', ' owner')",₹3.69L₹3.39 lakh,2021,Maruti S PRESSO
+230,15.47k km,Petrol,Auto,"('1st', ' owner')",₹10.34L₹10.09 lakh,2021,Mahindra Thar
+231,26.50k km,Petrol,Manual,"('1st', ' owner')",₹13.41L₹9.50 lakh,2021,MG HECTOR
+232,38.41k km,Petrol,Manual,"('1st', ' owner')",₹7.68L₹7.15 lakh,2023,Maruti Ciaz
+233,23.36k km,Petrol,Manual,"('1st', ' owner')",₹5.18 lakh,2022,Maruti IGNIS
+234,,Petrol,Auto,"('1st', ' owner')",₹6.23L₹5.75 lakh,2022,Tata TIAGO NRG
+235,32.05k km,Diesel,Manual,"('1st', ' owner')",₹9.87L₹9.70 lakh,2022,Hyundai VENUE
+236,49.50k km,Petrol,Manual,"('2nd', ' owner')",₹4.44L₹3.85 lakh,2015,Maruti Swift
+237,30.06k km,CNG,Manual,"('1st', ' owner')",₹8.86L₹8.20 lakh,2024,Tata ALTROZ
+238,38.89k km,Diesel,Auto,"('1st', ' owner')",₹13.08L₹9.05 lakh,2022,Tata NEXON
+239,17.80k km,Petrol,Manual,"('1st', ' owner')",₹4.97L₹3.60 lakh,2022,Renault Kwid
+240,66.32k km,Diesel,Manual,"('2nd', ' owner')",₹4.54L₹4.25 lakh,2017,Maruti Dzire
+241,56.67k km,Diesel,Manual,"('1st', ' owner')",₹8.86L₹8.36 lakh,2020,KIA SELTOS
+242,62.52k km,Diesel,Manual,"('1st', ' owner')",₹5.38L₹4.80 lakh,2019,Honda Amaze
+243,31.55k km,Petrol,Manual,"('1st', ' owner')",₹5.83L₹4.75 lakh,2021,Tata TIAGO NRG
+244,17.33k km,Petrol,Manual,"('1st', ' owner')",₹7.28L₹6.49 lakh,2023,Hyundai NEW I20
+245,13.06k km,Petrol,Manual,"('1st', ' owner')",₹14.26L₹13.40 lakh,2023,Hyundai Verna
+246,33.19k km,Petrol,Manual,"('1st', ' owner')",₹8.49L₹7.25 lakh,2021,Toyota URBAN CRUISER
+247,93.02k km,Diesel,Manual,"('2nd', ' owner')",₹4.79L₹3.85 lakh,2017,Maruti Baleno
+248,57.61k km,Petrol,Manual,"('1st', ' owner')",₹4.77L₹3.80 lakh,2016,Maruti Baleno
+249,47.65k km,Diesel,Auto,"('1st', ' owner')",₹6.87L₹6.20 lakh,2018,Maruti Vitara Brezza
+250,41.08k km,Petrol,Manual,"('1st', ' owner')",₹4.54L₹4.20 lakh,2019,Renault TRIBER
+251,82.56k km,CNG,Manual,"('2nd', ' owner')",₹4.71L₹4.25 lakh,2019,Renault TRIBER
+252,69.99k km,Diesel,Manual,"('1st', ' owner')",₹12.96L₹11.20 lakh,2021,Mahindra Thar
+253,74.71k km,Diesel,Manual,"('2nd', ' owner')",₹6.51L₹5.40 lakh,2019,Maruti S Cross
+254,35.19k km,Petrol,Auto,"('1st', ' owner')",₹6.17L₹5.35 lakh,2018,Hyundai Elite i20
+255,69.80k km,Diesel,Manual,"('1st', ' owner')",₹6.02L₹5.75 lakh,2017,Maruti Vitara Brezza
+256,41.82k km,Petrol,Manual,"('1st', ' owner')",₹6.69L₹5.85 lakh,2019,Tata NEXON
+257,23.48k km,Petrol,Manual,"('1st', ' owner')",₹3.12 lakh,2020,Renault Kwid
+258,65.70k km,Petrol,Manual,"('1st', ' owner')",₹5.66L₹4.72 lakh,2021,Volkswagen Polo
+259,37.78k km,Petrol,Manual,"('1st', ' owner')",₹6.62L₹5.20 lakh,2017,Ford Ecosport
+260,33.27k km,CNG,Manual,"('1st', ' owner')",₹6.25 lakh,2022,Tata TIGOR
+261,48.80k km,Petrol,Manual,"('1st', ' owner')",₹2.78 lakh,2017,Hyundai Eon
+262,10.24k km,Petrol,Manual,"('1st', ' owner')",₹5.99 lakh,2023,Tata PUNCH
+263,51.95k km,Petrol,Manual,"('2nd', ' owner')",₹4.24 lakh,2021,Nissan MAGNITE
+264,93.16k km,Diesel,Manual,"('2nd', ' owner')",₹7.12L₹5.43 lakh,2019,Hyundai Elite i20
+265,98.24k km,CNG,Manual,"('2nd', ' owner')",₹3.53 lakh,2018,Hyundai NEW SANTRO
+266,85.83k km,Petrol,Manual,"('1st', ' owner')",₹2.57L₹2.20 lakh,2017,Renault Kwid
+267,19.86k km,Petrol,Manual,"('1st', ' owner')",₹8.49L₹7.05 lakh,2021,Hyundai VENUE
+268,27.50k km,CNG,Manual,"('1st', ' owner')",₹6.55L₹5.14 lakh,2022,Tata Tiago
+269,49.48k km,Petrol,Manual,"('1st', ' owner')",₹6.02L₹5.79 lakh,2022,Maruti Swift
+270,26.00k km,Petrol,Manual,"('1st', ' owner')",₹6.05L₹5.95 lakh,2021,Maruti Dzire
+271,22.78k km,Petrol,Manual,"('1st', ' owner')",₹5.77L₹4.80 lakh,2021,Nissan MAGNITE
+272,69.18k km,Petrol,Manual,"('1st', ' owner')",₹3.87 lakh,2021,Maruti IGNIS
+273,19.57k km,CNG,Manual,"('1st', ' owner')",₹5.85 lakh,2024,Maruti Eeco
+274,58.24k km,CNG,Manual,"('1st', ' owner')",₹7.72L₹6.30 lakh,2022,Hyundai AURA
+275,74.51k km,Diesel,Manual,"('2nd', ' owner')",₹6.33L₹5.43 lakh,2018,Hyundai Elite i20
+276,20.32k km,Petrol,Manual,"('1st', ' owner')",₹3.72L₹3.05 lakh,2020,Maruti Alto
+277,23.19k km,Petrol,Manual,"('1st', ' owner')",₹8.23L₹7.80 lakh,2024,Maruti Swift
+278,71.11k km,Petrol,Manual,"('1st', ' owner')",₹5.57L₹5.25 lakh,2018,Hyundai Elite i20
+279,49.74k km,Petrol,Auto,"('2nd', ' owner')",₹6.50L₹6.20 lakh,2021,Volkswagen Polo
+280,57.63k km,Petrol,Manual,"('1st', ' owner')",₹3.84 lakh,2020,Hyundai GRAND I10 NIOS
+281,21.47k km,Petrol,Auto,"('2nd', ' owner')",₹4.51 lakh,2018,Maruti Celerio
+282,95.65k km,Diesel,Manual,"('1st', ' owner')",₹8.45 lakh,2017,Jeep Compass
+283,89.29k km,Diesel,Manual,"('1st', ' owner')",₹6.40L₹5.88 lakh,2016,Maruti Ertiga
+284,71.12k km,Diesel,Manual,"('1st', ' owner')",₹6.90 lakh,2015,Mahindra XUV500
+285,75.28k km,Diesel,Manual,"('2nd', ' owner')",₹7.12 lakh,2016,Hyundai Creta
+286,27.62k km,Petrol,Manual,"('1st', ' owner')",₹6.17 lakh,2022,Renault TRIBER
+287,68.73k km,Petrol,Manual,"('2nd', ' owner')",₹2.54 lakh,2014,Maruti Alto K10
+288,22.81k km,Petrol,Manual,"('1st', ' owner')",₹7.27L₹6.70 lakh,2024,Maruti Swift
+289,19.96k km,Petrol,Manual,"('1st', ' owner')",₹3.12L₹2.99 lakh,2021,Maruti Alto
+290,37.68k km,Petrol,Manual,"('2nd', ' owner')",₹11.76 lakh,2022,KIA SELTOS
+291,62.10k km,Diesel,Manual,"('1st', ' owner')",₹6.16L₹4.99 lakh,2017,Maruti Vitara Brezza
+292,36.82k km,Diesel,Manual,"('1st', ' owner')",₹8.56L₹6.55 lakh,2022,Honda Amaze
+293,74.22k km,Diesel,Manual,"('2nd', ' owner')",₹6.04L₹4.60 lakh,2016,Maruti Vitara Brezza
+294,34.86k km,Petrol,Manual,"('1st', ' owner')",₹4.08 lakh,2019,Maruti New Wagon-R
+295,45.78k km,Petrol,Manual,"('1st', ' owner')",₹7.38L₹6.49 lakh,2019,Hyundai VENUE
+296,69.65k km,Diesel,Manual,"('1st', ' owner')",₹5.74L₹4.20 lakh,2019,Volkswagen Ameo
+297,26.88k km,Petrol,Manual,"('1st', ' owner')",₹6.47L₹5.99 lakh,2021,Maruti Swift
+298,55.30k km,Diesel,Auto,"('2nd', ' owner')",₹12.00L₹9.45 lakh,2020,Hyundai Verna
+299,20.18k km,Petrol,Manual,"('1st', ' owner')",₹6.08L₹5.62 lakh,2022,Tata PUNCH
+300,33.63k km,CNG,Manual,"('1st', ' owner')",₹5.11 lakh,,
+301,62.64k km,CNG,Manual,"('1st', ' owner')",₹4.89L₹4.79 lakh,,
+302,38.55k km,Petrol,Manual,"('1st', ' owner')",₹5.40L₹5.28 lakh,,
+303,22.70k km,Petrol,Manual,"('1st', ' owner')",₹12.73L₹12.45 lakh,,
+304,31.99k km,Petrol,Manual,"('1st', ' owner')",₹6.44 lakh,,
+305,91.23k km,Diesel,Manual,"('1st', ' owner')",₹7.15L₹7.03 lakh,,
+306,52.74k km,Petrol,Manual,"('1st', ' owner')",₹5.28 lakh,,
+307,19.06k km,Petrol,Manual,"('1st', ' owner')",₹6.44 lakh,,
+308,59.89k km,Petrol,Manual,"('1st', ' owner')",₹6.42L₹6.30 lakh,,
+309,17.92k km,Petrol,Manual,"('1st', ' owner')",₹10.73 lakh,,
+310,34.52k km,Diesel,Manual,"('2nd', ' owner')",₹9.68L₹7.00 lakh,,
+311,36.25k km,Petrol,Manual,"('1st', ' owner')",₹5.83L₹5.50 lakh,,
+312,56.74k km,Petrol,Manual,"('1st', ' owner')",₹5.15L₹4.25 lakh,,
+313,56.15k km,Diesel,Manual,"('1st', ' owner')",₹10.29 lakh,,
+314,,Diesel,Manual,"('2nd', ' owner')",₹5.28L₹3.77 lakh,,
+315,97.17k km,CNG,Manual,"('1st', ' owner')",₹5.09L₹4.79 lakh,,
+316,74.88k km,CNG,Manual,"('1st', ' owner')",₹4.75L₹3.70 lakh,,
+317,18.64k km,Diesel,Manual,"('1st', ' owner')",₹19.29L₹18.01 lakh,,
+318,99.42k km,CNG,Manual,"('1st', ' owner')",₹5.72L₹5.50 lakh,,
+319,32.03k km,Petrol,Auto,"('1st', ' owner')",₹9.77L₹8.99 lakh,,
+320,99.23k km,Petrol,Manual,"('2nd', ' owner')",₹6.76L₹5.90 lakh,,
+321,38.54k km,Petrol,Manual,"('1st', ' owner')",₹6.46L₹4.95 lakh,,
+322,28.46k km,Petrol,Auto,"('1st', ' owner')",₹12.14L₹11.77 lakh,,
+323,,Petrol,Manual,"('1st', ' owner')",₹12.02L₹11.24 lakh,,
+324,41.36k km,Petrol,Manual,"('1st', ' owner')",₹13.00L₹12.80 lakh,,
+325,11.40k km,Diesel,Manual,"('1st', ' owner')",₹11.75L₹10.80 lakh,,
+326,75.10k km,Petrol,Manual,"('1st', ' owner')",₹5.80L₹4.88 lakh,,
+327,10.35k km,CNG,Manual,"('1st', ' owner')",₹6.60L₹6.30 lakh,,
+328,44.77k km,Petrol,Manual,"('1st', ' owner')",₹5.99L₹5.65 lakh,,
+329,47.79k km,Petrol,Manual,"('2nd', ' owner')",₹10.71L₹9.77 lakh,,
+330,44.30k km,CNG,Manual,"('1st', ' owner')",₹3.27L₹3.14 lakh,,
+331,12.68k km,Petrol,Auto,"('1st', ' owner')",₹6.30 lakh,,
+332,21.98k km,Petrol,Manual,"('2nd', ' owner')",₹6.80 lakh,,
+333,40.04k km,Petrol,Manual,"('1st', ' owner')",₹8.66L₹8.25 lakh,,
+334,,Petrol,Auto,"('1st', ' owner')",₹9.83 lakh,,
+335,75.97k km,Petrol,Manual,"('2nd', ' owner')",₹2.03L₹1.87 lakh,,
+336,73.42k km,Diesel,Manual,"('1st', ' owner')",₹12.39L₹8.99 lakh,,
+337,59.41k km,Petrol,Manual,"('1st', ' owner')",₹4.90 lakh,,
+338,67.55k km,Petrol,Auto,"('1st', ' owner')",₹5.23 lakh,,
+339,36.56k km,Petrol,Manual,"('1st', ' owner')",₹6.27L₹5.68 lakh,,
+340,91.14k km,Petrol,Manual,"('1st', ' owner')",₹5.29L₹4.40 lakh,2019,Maruti Baleno
+341,60.16k km,Petrol,Manual,"('1st', ' owner')",₹6.06 lakh,2021,Maruti Baleno
+342,36.74k km,Petrol,Manual,"('1st', ' owner')",₹4.36L₹4.36 lakh,2019,Hyundai Grand i10
+343,29.20k km,Petrol,Manual,"('1st', ' owner')",₹5.09 lakh,2019,Hyundai GRAND I10 NIOS
+344,54.18k km,CNG,Manual,"('2nd', ' owner')",₹3.97 lakh,2016,Hyundai Elite i20
+345,37.15k km,Diesel,Auto,"('1st', ' owner')",₹18.28L₹16.35 lakh,2022,Tata Safari
+346,13.63k km,Petrol,Manual,"('1st', ' owner')",₹9.09L₹8.23 lakh,2023,Tata NEXON
+347,,Petrol,Manual,"('1st', ' owner')",₹9.22 lakh,2024,KIA SONET
+348,58.68k km,Petrol,Auto,"('1st', ' owner')",₹8.72L₹6.99 lakh,2018,Hyundai Verna
+349,31.40k km,Petrol,Manual,"('1st', ' owner')",₹5.71 lakh,2022,Maruti New Wagon-R
+350,21.30k km,Petrol,Auto,"('1st', ' owner')",₹6.49L₹6.30 lakh,2022,Renault Kiger
+351,28.98k km,Petrol,Manual,"('1st', ' owner')",₹10.63L₹10.44 lakh,2023,Skoda KUSHAQ
+352,21.20k km,CNG,Manual,"('1st', ' owner')",₹5.26 lakh,2022,Maruti New Wagon-R
+353,39.40k km,Petrol,Manual,"('1st', ' owner')",₹4.52L₹4.21 lakh,2020,Hyundai Grand i10
+354,46.53k km,Diesel,Manual,"('1st', ' owner')",₹10.85L₹7.95 lakh,2019,Mahindra XUV500
+355,41.78k km,Petrol,Manual,"('1st', ' owner')",₹3.58 lakh,2017,Tata TIGOR
+356,53.45k km,Petrol,Manual,"('1st', ' owner')",₹4.49L₹4.07 lakh,2015,Hyundai Elite i20
+357,53.35k km,Petrol,Manual,"('1st', ' owner')",₹5.72 lakh,2021,Maruti Baleno
+358,61.93k km,Petrol,Manual,"('1st', ' owner')",₹5.34 lakh,2020,Maruti Baleno
+359,51.12k km,Petrol,Auto,"('1st', ' owner')",₹5.92L₹5.35 lakh,2017,Skoda Rapid
+360,86.13k km,Petrol,Manual,"('1st', ' owner')",₹3.25 lakh,2017,Tata TIGOR
+361,21.77k km,Petrol,Manual,"('1st', ' owner')",₹8.61 lakh,2023,Maruti BREZZA
+362,12.94k km,Petrol,Manual,"('1st', ' owner')",₹8.56 lakh,2023,Tata NEXON
+363,99.43k km,Petrol,Manual,"('2nd', ' owner')",₹2.72L₹2.15 lakh,2018,Datsun Go
+364,47.00k km,Petrol,Auto,"('2nd', ' owner')",₹4.69 lakh,2018,Maruti Swift
+365,32.83k km,Petrol,Manual,"('1st', ' owner')",₹5.23 lakh,2021,Tata PUNCH
+366,49.53k km,Diesel,Manual,"('1st', ' owner')",₹11.02 lakh,2021,MG HECTOR
+367,,Petrol,Auto,"('1st', ' owner')",₹6.67 lakh,2024,Maruti New Wagon-R
+368,11.07k km,Petrol,Auto,"('1st', ' owner')",₹11.08L₹10.64 lakh,2024,Tata NEXON
+369,63.46k km,Petrol,Manual,"('1st', ' owner')",₹2.82 lakh,2013,Maruti Swift Dzire
+370,24.29k km,Petrol,Manual,"('1st', ' owner')",₹4.79L₹4.65 lakh,2016,Maruti Ciaz
+371,27.18k km,Petrol,Manual,"('1st', ' owner')",₹5.05L₹4.95 lakh,2023,Maruti IGNIS
+372,97.35k km,Petrol,Manual,"('1st', ' owner')",₹7.15L₹5.95 lakh,2020,Skoda Rapid
+373,54.82k km,Petrol,Manual,"('2nd', ' owner')",₹5.50 lakh,2021,Toyota Glanza
+374,24.39k km,Petrol,Manual,"('1st', ' owner')",₹7.71 lakh,2023,Mahindra XUV300
+375,44.16k km,Petrol,Manual,"('1st', ' owner')",₹5.37L₹5.37 lakh,2021,Nissan MAGNITE
+376,48.54k km,Petrol,Manual,"('1st', ' owner')",₹5.22L₹5.22 lakh,2020,Tata ALTROZ
+377,27.90k km,Petrol,Manual,"('1st', ' owner')",₹7.73 lakh,2023,Hyundai VENUE
+378,61.38k km,Diesel,Manual,"('1st', ' owner')",₹7.29L₹6.88 lakh,2021,Tata NEXON
+379,31.70k km,Petrol,Auto,"('1st', ' owner')",₹5.02L₹4.65 lakh,2019,Tata Tiago
+380,75.00k km,Diesel,Auto,"('1st', ' owner')",₹39.90 lakh,2020,Mercedes Benz C Class
+381,54.59k km,Petrol,Manual,"('2nd', ' owner')",,2010,Maruti Zen Estilo
+382,69.37k km,Diesel,Manual,"('1st', ' owner')",₹14.58L₹14.93 lakh,2019,Mahindra Scorpio
+383,,Diesel,Manual,"('2nd', ' owner')",₹6.00 lakh,2017,Ford Ecosport
+384,49.41k km,Petrol,Manual,"('2nd', ' owner')",₹4.80 lakh,2016,Hyundai Elite i20
+385,86.20k km,Petrol,Auto,,₹3.30 lakh,2016,Hyundai Grand i10
+386,88.59k km,Petrol,Manual,"('2nd', ' owner')",₹1.75 lakh,2016,Maruti Alto 800
+387,40.39k km,Diesel,Manual,"('1st', ' owner')",₹17.50 lakh,2023,Mahindra SCORPIO CLASSIC
+388,58.93k km,Diesel,Manual,"('1st', ' owner')",₹9.25L₹9.00 lakh,2019,Jeep Compass
+389,74.36k km,Petrol,Manual,"('1st', ' owner')",₹3.11 lakh,2013,Maruti Wagon R 1.0
+390,78.75k km,Petrol,Manual,"('1st', ' owner')",₹2.76 lakh,2012,Maruti Swift
+391,,Diesel,Manual,"('2nd', ' owner')",,2010,Maruti Swift Dzire
+392,,Diesel,Manual,"('2nd', ' owner')",₹2.66 lakh,2013,Hyundai i20
+393,86.40k km,Diesel,Manual,"('2nd', ' owner')",₹4.29L₹4.54 lakh,2013,Maruti Swift Dzire
+394,,Diesel,Manual,"('1st', ' owner')",₹4.90 lakh,2013,Maruti Swift Dzire
+395,,Diesel,Manual,"('1st', ' owner')",₹3.25 lakh,2018,Tata Tiago
+396,93.91k km,Diesel,Manual,"('1st', ' owner')",₹2.90 lakh,2012,Renault Duster
+397,95.78k km,Diesel,Manual,"('2nd', ' owner')",₹5.34 lakh,2017,Maruti Ciaz
+398,87.99k km,Diesel,Manual,"('1st', ' owner')",₹8.21 lakh,2018,Honda WR-V
+399,50.85k km,Diesel,Manual,"('1st', ' owner')",₹5.34 lakh,2014,Maruti Swift Dzire
+400,91.65k km,Petrol,Manual,"('1st', ' owner')",₹2.28 lakh,,
+401,20.46k km,Petrol,Manual,"('1st', ' owner')",₹11.73L₹10.90 lakh,,
+402,88.44k km,Petrol,Manual,"('1st', ' owner')",₹6.45L₹5.50 lakh,,
+403,51.14k km,Petrol,Manual,"('1st', ' owner')",₹4.50L₹4.30 lakh,,
+404,61.21k km,Diesel,Manual,"('1st', ' owner')",₹8.87L₹7.84 lakh,,
+405,13.32k km,Petrol,Manual,"('1st', ' owner')",₹7.62L₹7.19 lakh,,
+406,10.55k km,Petrol,Manual,"('1st', ' owner')",₹11.05L₹10.37 lakh,,
+407,48.72k km,CNG,Manual,"('1st', ' owner')",₹5.99L₹5.76 lakh,,
+408,10.51k km,Petrol,Manual,"('1st', ' owner')",₹3.41L₹3.02 lakh,,
+409,33.86k km,Petrol,Manual,"('2nd', ' owner')",₹5.30L₹4.55 lakh,,
+410,37.19k km,Petrol,Manual,"('1st', ' owner')",₹5.03L₹4.68 lakh,,
+411,87.42k km,Petrol,Manual,,₹2.90L₹2.22 lakh,,
+412,20.30k km,Petrol,Manual,"('1st', ' owner')",₹3.91L₹3.35 lakh,,
+413,77.18k km,Petrol,Manual,"('2nd', ' owner')",₹4.53L₹4.20 lakh,,
+414,27.44k km,CNG,Manual,"('1st', ' owner')",₹4.94L₹4.48 lakh,,
+415,53.97k km,Petrol,Manual,"('1st', ' owner')",₹8.55L₹7.74 lakh,,
+416,10.98k km,Petrol,Manual,"('1st', ' owner')",₹15.04L₹13.00 lakh,,
+417,68.11k km,Petrol,Manual,"('2nd', ' owner')",₹3.78L₹3.63 lakh,,
+418,19.31k km,Petrol,Manual,"('1st', ' owner')",₹5.08L₹4.88 lakh,,
+419,31.87k km,Petrol,Manual,"('1st', ' owner')",₹6.20L₹5.69 lakh,,
+420,52.39k km,Petrol,Manual,"('1st', ' owner')",₹6.81 lakh,,
+421,68.57k km,Petrol,Auto,"('2nd', ' owner')",₹5.66L₹5.44 lakh,,
+422,54.61k km,Petrol,Manual,"('1st', ' owner')",₹2.98 lakh,,
+423,40.36k km,Petrol,Manual,"('2nd', ' owner')",₹5.86 lakh,,
+424,17.05k km,Petrol,Auto,"('1st', ' owner')",₹4.45 lakh,,
+425,60.45k km,Petrol,Manual,"('1st', ' owner')",₹2.88 lakh,,
+426,70.82k km,Petrol,Manual,"('2nd', ' owner')",₹4.04 lakh,,
+427,66.11k km,Petrol,Auto,"('1st', ' owner')",₹5.91 lakh,,
+428,58.20k km,Petrol,Auto,"('1st', ' owner')",₹6.28 lakh,,
+429,76.02k km,Diesel,Manual,"('2nd', ' owner')",₹6.77 lakh,,
+430,17.07k km,Petrol,Auto,"('1st', ' owner')",₹6.27 lakh,,
+431,45.36k km,Petrol,Auto,"('1st', ' owner')",₹4.24L₹3.56 lakh,,
+432,54.49k km,Petrol,Manual,"('2nd', ' owner')",₹4.55L₹3.84 lakh,,
+433,69.97k km,Petrol,Auto,"('2nd', ' owner')",₹3.83L₹3.04 lakh,,
+434,16.02k km,Petrol,Manual,"('1st', ' owner')",₹9.86L₹7.15 lakh,,
+435,16.26k km,Petrol,Manual,"('1st', ' owner')",₹3.74L₹3.45 lakh,,
+436,71.51k km,Diesel,Manual,"('1st', ' owner')",₹10.23L₹8.72 lakh,,
+437,,Petrol,Auto,"('2nd', ' owner')",₹4.88L₹4.15 lakh,,
+438,72.96k km,Petrol,Manual,"('1st', ' owner')",₹3.58 lakh,,
+439,83.26k km,Petrol,Auto,"('1st', ' owner')",₹5.88L₹5.42 lakh,,
+440,21.33k km,Petrol,Manual,"('1st', ' owner')",₹4.27 lakh,2019,Tata Tiago
+441,21.96k km,Petrol,Manual,"('1st', ' owner')",₹5.48 lakh,2023,Nissan MAGNITE
+442,31.15k km,Petrol,Auto,"('1st', ' owner')",₹3.46 lakh,2015,Maruti Celerio
+443,10.91k km,Petrol,Manual,"('2nd', ' owner')",₹3.14 lakh,2020,Renault Kwid
+444,80.66k km,Petrol,Manual,"('1st', ' owner')",₹6.75L₹6.49 lakh,2020,Maruti Vitara Brezza
+445,24.85k km,Petrol,Manual,"('1st', ' owner')",₹8.20L₹8.00 lakh,2023,Tata NEXON
+446,37.61k km,Diesel,Manual,"('1st', ' owner')",₹10.30L₹9.60 lakh,2019,Hyundai Creta
+447,,Petrol,Manual,"('1st', ' owner')",₹13.14 lakh,2024,Honda ELEVATE
+448,72.68k km,Petrol,Manual,"('1st', ' owner')",₹6.99 lakh,2021,Maruti Ciaz
+449,,Petrol,Manual,"('1st', ' owner')",₹6.87 lakh,2024,Tata ALTROZ
+450,34.78k km,Petrol,Manual,"('1st', ' owner')",₹2.69L₹2.10 lakh,2014,Maruti Alto 800
+451,22.84k km,Petrol,Manual,"('1st', ' owner')",₹9.63L₹7.20 lakh,2021,Hyundai VENUE
+452,31.65k km,CNG,Manual,"('1st', ' owner')",₹5.83 lakh,2022,Maruti IGNIS
+453,59.15k km,Petrol,Manual,"('1st', ' owner')",₹4.22L₹3.61 lakh,2014,Volkswagen Polo
+454,56.53k km,CNG,Manual,"('2nd', ' owner')",₹3.79L₹3.63 lakh,2020,Hyundai NEW SANTRO
+455,12.28k km,Petrol,Manual,"('1st', ' owner')",₹9.39L₹8.70 lakh,2022,Hyundai Verna
+456,27.68k km,Petrol,Manual,"('2nd', ' owner')",₹5.97L₹5.89 lakh,2022,Maruti Swift
+457,16.26k km,Petrol,Manual,"('1st', ' owner')",₹5.10L₹4.80 lakh,2023,Maruti IGNIS
+458,30.40k km,Petrol,Manual,"('1st', ' owner')",₹9.19L₹8.40 lakh,2021,Maruti XL6
+459,26.36k km,Petrol,Manual,"('1st', ' owner')",₹3.87L₹3.80 lakh,2021,Maruti S PRESSO
+460,45.67k km,Petrol,Manual,"('1st', ' owner')",₹5.98 lakh,2023,Renault TRIBER
+461,29.15k km,Petrol,Manual,"('1st', ' owner')",₹7.20L₹5.50 lakh,2023,Maruti New Wagon-R
+462,21.99k km,Petrol,Manual,"('2nd', ' owner')",₹3.36 lakh,2014,Hyundai Grand i10
+463,44.55k km,Petrol,Manual,"('1st', ' owner')",₹6.05 lakh,2022,Maruti Dzire
+464,12.15k km,Petrol,Manual,"('1st', ' owner')",₹8.64L₹8.20 lakh,2023,Tata NEXON
+465,63.11k km,Petrol,Manual,"('2nd', ' owner')",₹4.05L₹3.99 lakh,2019,Maruti New Wagon-R
+466,30.44k km,Petrol,Auto,"('1st', ' owner')",₹3.82L₹3.60 lakh,2017,Maruti Celerio
+467,23.87k km,Petrol,Manual,"('1st', ' owner')",₹8.12L₹6.90 lakh,2021,Tata NEXON
+468,33.11k km,Petrol,Manual,"('1st', ' owner')",₹4.26L₹4.20 lakh,2021,Maruti IGNIS
+469,75.14k km,Petrol,Manual,"('2nd', ' owner')",₹7.49L₹5.85 lakh,2018,Hyundai Creta
+470,,Petrol,Manual,"('1st', ' owner')",₹5.66L₹4.37 lakh,2022,Maruti Alto K10
+471,43.15k km,Diesel,Manual,"('2nd', ' owner')",₹5.19L₹4.99 lakh,2018,Maruti Baleno
+472,27.32k km,Petrol,Manual,"('1st', ' owner')",₹5.17L₹4.75 lakh,2021,Tata ALTROZ
+473,33.39k km,Petrol,Manual,"('1st', ' owner')",₹6.36 lakh,2022,Nissan MAGNITE
+474,14.76k km,Petrol,Manual,"('1st', ' owner')",₹6.19L₹5.95 lakh,2022,Hyundai GRAND I10 NIOS
+475,50.36k km,Petrol,Manual,"('1st', ' owner')",₹6.06L₹5.60 lakh,2023,Nissan MAGNITE
+476,45.58k km,CNG,Manual,"('1st', ' owner')",₹7.05L₹5.90 lakh,2023,Maruti New Wagon-R
+477,57.22k km,Diesel,Manual,"('1st', ' owner')",₹5.47L₹4.95 lakh,2017,Maruti Dzire
+478,63.80k km,Petrol,Manual,"('1st', ' owner')",₹5.95L₹5.49 lakh,2021,Tata ALTROZ
+479,30.33k km,Petrol,Manual,"('1st', ' owner')",₹9.03L₹8.66 lakh,2023,Tata NEXON
+480,30.08k km,Diesel,Manual,"('1st', ' owner')",₹8.25 lakh,2022,Tata NEXON
+481,,Diesel,Manual,"('1st', ' owner')",₹7.40 lakh,2019,Maruti Vitara Brezza
+482,35.30k km,Petrol,Auto,"('1st', ' owner')",₹14.00 lakh,2022,Mahindra Thar
+483,,Petrol,Manual,,,2005,Maruti Alto
+484,57.92k km,Diesel,Manual,"('2nd', ' owner')",₹4.50 lakh,2017,Maruti S Cross
+485,82.13k km,Diesel,Manual,"('1st', ' owner')",₹1.90 lakh,2015,Chevrolet Beat
+486,53.44k km,Petrol,Manual,"('2nd', ' owner')",₹7.25 lakh,2020,KIA SONET
+487,98.52k km,Petrol,Manual,"('1st', ' owner')",₹7.95 lakh,2021,Toyota URBAN CRUISER
+488,51.28k km,Petrol,Manual,"('2nd', ' owner')",₹6.35 lakh,2020,Maruti Swift
+489,,Diesel,Manual,"('2nd', ' owner')",,2009,Skoda Laura
+490,42.97k km,Petrol,Manual,"('2nd', ' owner')",₹3.10 lakh,2016,Maruti Alto K10
+491,62.63k km,Petrol,Manual,"('1st', ' owner')",₹1.34 lakh,2016,Datsun Redi Go
+492,82.35k km,Diesel,Manual,"('1st', ' owner')",₹6.75 lakh,2019,Hyundai Elite i20
+493,93.23k km,Petrol,Manual,"('2nd', ' owner')",,2009,Honda City
+494,,Diesel,Manual,"('1st', ' owner')",₹4.10 lakh,2016,Ford Ecosport
+495,53.94k km,Petrol,Manual,"('1st', ' owner')",₹2.40 lakh,2013,Ford Figo
+496,72.01k km,Diesel,Manual,"('2nd', ' owner')",₹6.50 lakh,2018,Maruti Dzire
+497,78.30k km,Diesel,Manual,"('2nd', ' owner')",₹6.50 lakh,2018,Maruti Ciaz
+498,42.78k km,Petrol,Manual,"('1st', ' owner')",₹4.25 lakh,2022,Maruti S PRESSO
+499,68.24k km,Diesel,Auto,"('2nd', ' owner')",₹8.00 lakh,2018,Maruti Vitara Brezza
+500,,Petrol,Manual,"('1st', ' owner')",₹6.85 lakh,2024,Toyota Glanza
+501,34.36k km,Petrol,Auto,"('1st', ' owner')",₹3.25 lakh,2019,Renault Kwid
+502,39.62k km,Petrol,Manual,"('1st', ' owner')",₹4.85 lakh,2022,Nissan MAGNITE
+503,24.11k km,Petrol,Manual,"('1st', ' owner')",₹3.22L₹2.73 lakh,2021,Datsun Redi Go
+504,66.80k km,Petrol,Manual,"('1st', ' owner')",₹8.95 lakh,2020,Hyundai Creta
+505,10.66k km,Petrol,Manual,"('1st', ' owner')",₹10.95 lakh,2023,Volkswagen VIRTUS
+506,44.48k km,Petrol,Manual,"('1st', ' owner')",₹3.05 lakh,2018,Maruti Alto K10
+507,28.85k km,Diesel,Manual,"('1st', ' owner')",₹10.50L₹10.10 lakh,2018,Mahindra Scorpio
+508,26.33k km,Petrol,Manual,"('1st', ' owner')",₹7.65L₹7.45 lakh,2022,KIA SONET
+509,32.31k km,Petrol,Auto,"('1st', ' owner')",₹11.91 lakh,2020,MG HECTOR
+510,70.82k km,Petrol,Auto,"('1st', ' owner')",₹11.20L₹10.35 lakh,2019,Jeep Compass
+511,32.26k km,Petrol,Manual,"('1st', ' owner')",₹5.57 lakh,2019,Tata NEXON
+512,19.36k km,CNG,Manual,"('1st', ' owner')",₹5.95L₹5.78 lakh,2023,Tata Tiago
+513,38.05k km,Petrol,Manual,"('1st', ' owner')",₹5.65L₹5.55 lakh,2023,Hyundai AURA
+514,12.71k km,Petrol,Manual,"('1st', ' owner')",₹3.87L₹3.53 lakh,2021,Renault Kwid
+515,46.79k km,Petrol,Manual,"('1st', ' owner')",₹5.73L₹5.68 lakh,2018,Ford Ecosport
+516,22.72k km,Petrol,Manual,"('1st', ' owner')",₹6.15L₹5.88 lakh,2021,Honda Amaze
+517,39.21k km,Petrol,Auto,"('1st', ' owner')",₹6.09L₹5.50 lakh,2019,Honda Amaze
+518,50.52k km,Petrol,Manual,"('1st', ' owner')",₹9.50 lakh,2022,Hyundai Creta
+519,63.25k km,Petrol,Manual,"('1st', ' owner')",₹4.07L₹3.93 lakh,2018,Tata TIGOR
+520,69.53k km,Petrol,Manual,"('1st', ' owner')",₹5.29 lakh,2020,Hyundai GRAND I10 NIOS
+521,56.34k km,CNG,Manual,"('1st', ' owner')",₹7.35 lakh,2022,Maruti Dzire
+522,,Diesel,Manual,"('1st', ' owner')",₹8.80L₹7.98 lakh,2020,Hyundai Creta
+523,,Petrol,Manual,"('1st', ' owner')",₹4.98 lakh,2019,Hyundai Elite i20
+524,28.85k km,Petrol,Auto,"('1st', ' owner')",₹4.99 lakh,2019,Hyundai GRAND I10 NIOS
+525,11.24k km,Petrol,Manual,"('1st', ' owner')",₹7.90L₹7.29 lakh,2023,Mahindra XUV300
+526,,Diesel,Auto,"('1st', ' owner')",₹6.25 lakh,2017,Skoda Rapid
+527,12.96k km,Petrol,Manual,"('1st', ' owner')",₹6.25 lakh,2024,Maruti Swift
+528,75.06k km,Diesel,Auto,"('2nd', ' owner')",₹13.80 lakh,2022,Mahindra Thar
+529,18.23k km,Diesel,Manual,"('1st', ' owner')",₹14.85 lakh,2023,Mahindra Thar
+530,,Petrol,Manual,"('1st', ' owner')",₹12.00L₹10.75 lakh,2024,Tata NEXON
+531,80.00k km,Diesel,Manual,"('1st', ' owner')",₹9.00L₹8.45 lakh,2018,Mahindra XUV500
+532,70.99k km,Petrol,Manual,"('1st', ' owner')",₹5.83 lakh,2018,Hyundai Elite i20
+533,76.02k km,Petrol,Auto,"('1st', ' owner')",₹9.91L₹9.49 lakh,2018,Jeep Compass
+534,74.88k km,Diesel,Manual,"('1st', ' owner')",₹9.00L₹8.76 lakh,2017,Mahindra XUV500
+535,80.25k km,Diesel,Auto,"('2nd', ' owner')",₹7.95L₹7.25 lakh,2017,Hyundai Verna
+536,49.03k km,Petrol,Manual,"('1st', ' owner')",₹7.00L₹6.45 lakh,2022,Maruti Dzire
+537,16.53k km,Petrol,Manual,"('1st', ' owner')",₹5.30 lakh,2020,Maruti New Wagon-R
+538,91.37k km,Petrol,Manual,"('2nd', ' owner')",₹4.90 lakh,2016,Honda City
+539,60.95k km,Diesel,Manual,"('1st', ' owner')",₹4.80 lakh,2016,Honda City
+540,85.02k km,Diesel,Manual,"('1st', ' owner')",₹6.50L₹6.10 lakh,2015,Hyundai Creta
+541,22.33k km,Petrol,Auto,"('2nd', ' owner')",₹8.50L₹8.30 lakh,2019,Honda City
+542,16.50k km,Petrol,Manual,"('1st', ' owner')",₹5.95 lakh,2019,Hyundai Elite i20
+543,80.32k km,Petrol,Auto,"('2nd', ' owner')",₹5.95L₹5.85 lakh,2018,Maruti Dzire
+544,62.08k km,Petrol,Auto,"('1st', ' owner')",₹6.20 lakh,2019,Maruti Swift
+545,40.18k km,Petrol,Auto,"('1st', ' owner')",₹5.30 lakh,2021,Tata Tiago
+546,60.92k km,Petrol,Manual,"('1st', ' owner')",₹3.37 lakh,2016,Maruti Baleno
+547,17.96k km,Petrol,Manual,"('1st', ' owner')",₹7.20 lakh,2022,Hyundai NEW I20
+548,42.03k km,Petrol,Manual,"('1st', ' owner')",₹4.20 lakh,2017,Hyundai Grand i10
+549,,Petrol,Manual,"('1st', ' owner')",₹2.00 lakh,2011,Hyundai i20
+550,87.75k km,Diesel,Manual,"('1st', ' owner')",₹13.50 lakh,2016,Toyota Innova Crysta
+551,68.87k km,Petrol,Manual,"('1st', ' owner')",₹4.90 lakh,2021,Tata TIGOR
+552,78.44k km,Diesel,Manual,"('1st', ' owner')",₹9.95 lakh,2018,Mahindra XUV500
+553,21.97k km,Petrol,Manual,"('1st', ' owner')",,2010,Maruti Ritz
+554,79.37k km,Petrol,Auto,"('2nd', ' owner')",₹3.75 lakh,2019,Hyundai NEW SANTRO
+555,95.73k km,Diesel,Manual,"('1st', ' owner')",₹6.00 lakh,2016,Maruti Vitara Brezza
+556,85.60k km,Petrol,Manual,,₹3.52 lakh,2014,Hyundai Xcent
+557,59.65k km,Petrol,Manual,"('1st', ' owner')",₹1.80 lakh,2011,Maruti Ritz
+558,,Diesel,Manual,"('1st', ' owner')",₹5.80 lakh,2018,Maruti S Cross
+559,56.62k km,Petrol,Auto,"('1st', ' owner')",₹18.75 lakh,2022,Mahindra XUV700
+560,74.54k km,Diesel,Manual,"('1st', ' owner')",₹12.50 lakh,2021,Tata Harrier
+561,85.12k km,Petrol,Manual,"('1st', ' owner')",₹2.97 lakh,2014,Hyundai Grand i10
+562,77.77k km,Petrol,Manual,"('1st', ' owner')",₹5.00 lakh,2019,Hyundai NEW SANTRO
+563,45.76k km,Petrol,Manual,"('1st', ' owner')",₹3.59 lakh,2020,Renault Kwid
+564,20.62k km,Petrol,Auto,"('1st', ' owner')",₹6.50 lakh,,
+565,45.90k km,Petrol,Manual,"('1st', ' owner')",₹1.75 lakh,,
+566,75.57k km,Petrol,Manual,"('1st', ' owner')",₹7.00 lakh,,
+567,65.13k km,Petrol,Manual,"('1st', ' owner')",₹2.67 lakh,,
+568,83.16k km,Petrol,Manual,"('1st', ' owner')",₹3.94 lakh,,
+569,62.20k km,Petrol,Manual,"('2nd', ' owner')",₹2.90 lakh,,
+570,83.32k km,Diesel,Manual,,₹3.72 lakh,,
+571,,Diesel,Manual,"('2nd', ' owner')",₹3.88 lakh,,
+572,31.37k km,Petrol,Manual,"('1st', ' owner')",₹9.95 lakh,,
+573,30.90k km,Petrol,Manual,"('1st', ' owner')",₹5.38 lakh,,
+574,63.84k km,Diesel,Manual,"('1st', ' owner')",₹8.50 lakh,,
+575,,Diesel,Manual,,₹2.91 lakh,,
+576,,Diesel,Manual,"('2nd', ' owner')",₹4.40 lakh,,
+577,39.04k km,Petrol,Manual,"('1st', ' owner')",₹5.63 lakh,,
+578,,Diesel,Manual,,₹3.05 lakh,,
+579,,Diesel,Manual,"('1st', ' owner')",₹4.00 lakh,,
+580,80.81k km,Diesel,Manual,"('1st', ' owner')",₹3.87 lakh,2018,Honda Amaze
+581,38.29k km,Petrol,Auto,"('1st', ' owner')",₹13.00 lakh,2021,Volkswagen TAIGUN
+582,46.84k km,Petrol,Manual,"('1st', ' owner')",₹6.50 lakh,2022,Hyundai VENUE
+583,63.69k km,Petrol,Manual,,₹1.06 lakh,2011,Hyundai i20
+584,79.36k km,Petrol,Manual,,₹1.72 lakh,2017,Renault Kwid
+585,74.00k km,Diesel,Manual,"('1st', ' owner')",₹4.09 lakh,2017,Maruti Vitara Brezza
+586,58.32k km,Petrol,Manual,"('2nd', ' owner')",₹1.47L₹1.56 lakh,2017,Renault Kwid
+587,,Diesel,Manual,"('1st', ' owner')",₹3.00L₹3.23 lakh,2017,Ford Ecosport
+588,61.33k km,Petrol,Manual,"('1st', ' owner')",₹3.83 lakh,2021,Tata Tiago
+589,,Petrol,Auto,"('1st', ' owner')",₹2.81 lakh,2018,Maruti Celerio
+590,,Petrol,Manual,"('1st', ' owner')",₹3.38 lakh,2017,Volkswagen Ameo
+591,92.38k km,Diesel,Manual,"('1st', ' owner')",₹2.31 lakh,2013,Renault Duster
+592,,Diesel,Manual,"('2nd', ' owner')",₹4.43 lakh,2017,Maruti Dzire
+593,92.10k km,Diesel,Manual,"('2nd', ' owner')",₹2.34L₹2.35 lakh,2015,Hyundai Xcent
+594,,Diesel,Manual,,₹3.68 lakh,2016,Maruti Swift Dzire
+595,73.64k km,Petrol,Manual,"('1st', ' owner')",₹1.94 lakh,2013,Skoda Rapid
+596,,Diesel,Manual,"('2nd', ' owner')",₹4.23 lakh,2019,Maruti Swift
+597,,Diesel,Manual,"('2nd', ' owner')",₹3.20 lakh,2015,Maruti Swift
+598,,Diesel,Manual,"('1st', ' owner')",₹3.00 lakh,2012,Mahindra Scorpio
+599,,Petrol,Manual,"('1st', ' owner')",,2010,Maruti Wagon R Duo
+600,51.31k km,Petrol,Manual,"('2nd', ' owner')",₹2.29 lakh,2016,Renault Kwid
+601,59.79k km,Petrol,Auto,"('1st', ' owner')",₹6.25 lakh,2019,Maruti Dzire
+602,,Petrol,Manual,"('1st', ' owner')",₹8.20 lakh,2017,Hyundai Creta
+603,75.00k km,Petrol,Manual,"('1st', ' owner')",₹6.75L₹6.20 lakh,2017,Honda City
+604,97.00k km,Diesel,Manual,"('1st', ' owner')",₹10.50 lakh,2018,Mahindra XUV500
+605,23.00k km,Petrol,Manual,"('1st', ' owner')",₹6.25 lakh,2021,Nissan MAGNITE
+606,,Diesel,Manual,"('2nd', ' owner')",₹4.25 lakh,2013,Nissan Terrano
+607,,Diesel,Auto,"('1st', ' owner')",₹16.00 lakh,2020,Tata Harrier
+608,80.13k km,Diesel,Auto,"('1st', ' owner')",₹9.80 lakh,2019,Maruti Vitara Brezza
+609,15.68k km,Petrol,Auto,"('2nd', ' owner')",₹9.95 lakh,2023,Maruti Baleno
+610,,Diesel,Manual,"('1st', ' owner')",₹3.00L₹3.10 lakh,2014,Nissan Sunny
+611,98.85k km,Diesel,Manual,"('1st', ' owner')",₹11.50 lakh,2020,Hyundai Creta
+612,23.89k km,Petrol,Auto,"('1st', ' owner')",₹7.25 lakh,2022,Maruti IGNIS
+613,36.77k km,Diesel,Manual,"('1st', ' owner')",₹14.25 lakh,2023,Hyundai Creta
+614,12.98k km,Petrol,Manual,"('1st', ' owner')",₹8.15 lakh,2024,Hyundai NEW I20
+615,18.70k km,Diesel,Manual,"('1st', ' owner')",₹11.75 lakh,2023,Mahindra XUV300
+616,74.00k km,Diesel,Manual,"('1st', ' owner')",₹15.50 lakh,2022,Hyundai Creta
+617,20.49k km,Petrol,Manual,"('1st', ' owner')",₹8.40 lakh,2020,Toyota YARIS
+618,,Diesel,Auto,"('1st', ' owner')",₹20.00 lakh,2019,Skoda Octavia
+619,28.03k km,Petrol,Manual,"('1st', ' owner')",₹9.50 lakh,2022,Tata NEXON
+620,,Diesel,Manual,"('1st', ' owner')",₹6.15 lakh,,
+621,40.18k km,Diesel,Manual,"('1st', ' owner')",₹7.90 lakh,,
+622,49.91k km,CNG,Manual,"('1st', ' owner')",₹7.90 lakh,,
+623,74.58k km,Petrol,Manual,"('1st', ' owner')",₹3.55 lakh,,
+624,42.34k km,Diesel,Manual,"('1st', ' owner')",₹10.25 lakh,,
+625,72.23k km,Petrol,Manual,"('1st', ' owner')",₹6.90 lakh,,
+626,77.96k km,Petrol,Manual,"('1st', ' owner')",₹9.52 lakh,,
+627,,Diesel,Manual,"('1st', ' owner')",₹0.60L₹6.00 lakh,,
+628,30.56k km,Petrol,Manual,"('1st', ' owner')",₹9.90 lakh,,
+629,35.30k km,Petrol,Auto,"('1st', ' owner')",₹10.66 lakh,,
+630,,Diesel,Manual,"('1st', ' owner')",₹10.00 lakh,,
+631,,Petrol,Manual,"('1st', ' owner')",₹6.15 lakh,,
+632,25.72k km,Diesel,Manual,"('1st', ' owner')",₹11.25 lakh,,
+633,57.94k km,Diesel,Manual,"('1st', ' owner')",₹5.50 lakh,2022,Tata ALTROZ
+634,71.84k km,Petrol,Manual,"('1st', ' owner')",₹2.10 lakh,2011,Maruti Swift
+635,60.37k km,Petrol,Manual,"('1st', ' owner')",₹2.90 lakh,2016,Hyundai Grand i10
+636,,Diesel,Manual,"('2nd', ' owner')",₹2.98 lakh,2014,Renault Duster
+637,,Diesel,Manual,"('2nd', ' owner')",₹1.47 lakh,2012,Hyundai i20
+638,,Petrol,Manual,"('1st', ' owner')",₹3.19 lakh,2015,Maruti Ciaz
+639,98.37k km,Petrol,Manual,,₹1.74 lakh,2015,Hyundai Eon
+640,,Petrol,Manual,"('1st', ' owner')",₹6.61 lakh,2020,Maruti Vitara Brezza
+641,18.22k km,Petrol,Manual,"('1st', ' owner')",₹6.34 lakh,2023,Maruti Baleno
+642,32.00k km,Petrol,Manual,"('1st', ' owner')",₹3.50 lakh,2018,Mahindra KUV 100 NXT
+643,,Diesel,Manual,"('1st', ' owner')",₹1.72 lakh,2015,Fiat Punto EVO
+644,50.05k km,Petrol,Manual,"('2nd', ' owner')",₹5.02 lakh,2020,Renault TRIBER
+645,25.91k km,Petrol,Manual,"('1st', ' owner')",₹5.65L₹5.45 lakh,2022,Hyundai GRAND I10 NIOS
+646,,Diesel,Manual,"('2nd', ' owner')",₹4.19L₹4.13 lakh,2016,Maruti Swift Dzire
+647,,Petrol,Auto,"('1st', ' owner')",₹8.47 lakh,2018,Honda City
+648,77.56k km,Petrol,Auto,"('2nd', ' owner')",₹2.40 lakh,2014,Nissan Micra
+649,,Petrol,Manual,"('1st', ' owner')",₹3.63 lakh,2018,Nissan Terrano
+650,,Diesel,Manual,"('2nd', ' owner')",₹3.86 lakh,2014,Maruti Swift Dzire
+651,27.19k km,Petrol,Auto,"('2nd', ' owner')",₹3.23 lakh,2018,Renault Kwid
+652,34.10k km,Petrol,Manual,"('1st', ' owner')",₹6.50 lakh,2020,Mahindra XUV300
+653,,Petrol,Manual,"('2nd', ' owner')",₹2.30 lakh,2016,Maruti Alto K10
+654,29.98k km,Diesel,Manual,"('1st', ' owner')",₹5.20 lakh,2018,Honda WR-V
+655,23.77k km,Petrol,Manual,"('1st', ' owner')",₹2.20 lakh,2016,Hyundai Eon
+656,,Petrol,Manual,"('2nd', ' owner')",₹2.90 lakh,2015,Hyundai Grand i10
+657,48.80k km,Petrol,Manual,"('2nd', ' owner')",₹1.23 lakh,2011,Ford Figo
+658,60.60k km,Diesel,Manual,"('1st', ' owner')",₹5.51 lakh,2016,Maruti Swift Dzire
+659,82.46k km,Diesel,Manual,"('1st', ' owner')",₹8.65 lakh,2020,KIA SELTOS
+660,,Petrol,Auto,"('1st', ' owner')",₹5.50 lakh,2019,Maruti Baleno
+661,13.78k km,Petrol,Auto,"('1st', ' owner')",₹21.00 lakh,2023,MG HECTOR PLUS
+662,56.21k km,Petrol,Manual,,,2010,Maruti Alto
+663,,Diesel,Auto,"('2nd', ' owner')",₹6.05L₹6.01 lakh,2016,Mahindra XUV500
+664,23.24k km,Petrol,Manual,"('1st', ' owner')",₹7.98 lakh,2021,Tata NEXON
+665,62.27k km,Petrol,Manual,,₹1.15 lakh,2011,Maruti Alto
+666,99.58k km,Petrol,Manual,"('2nd', ' owner')",₹2.90 lakh,2013,Maruti Swift Dzire
+667,,Diesel,Auto,"('2nd', ' owner')",₹6.08L₹6.05 lakh,2015,Hyundai Creta
+668,,Diesel,Manual,,₹3.08 lakh,2013,Hyundai Verna
+669,83.33k km,Petrol,Auto,"('1st', ' owner')",₹11.50 lakh,2020,KIA SELTOS
+670,,Diesel,Manual,"('2nd', ' owner')",₹14.01L₹13.80 lakh,2014,Toyota Fortuner
+671,43.73k km,Petrol,Auto,"('1st', ' owner')",₹13.90L₹13.67 lakh,2022,Hyundai Creta
+672,34.22k km,Petrol,Auto,"('1st', ' owner')",₹14.04 lakh,2021,Hyundai Creta
+673,,Petrol,Manual,"('1st', ' owner')",,2010,Maruti Zen Estilo
+674,92.76k km,Petrol,Manual,"('1st', ' owner')",₹1.49 lakh,2011,Maruti Ritz
+675,92.74k km,Petrol,Manual,"('1st', ' owner')",₹2.82 lakh,2016,Maruti Wagon R 1.0
+676,86.61k km,Petrol,Manual,"('2nd', ' owner')",₹6.00 lakh,2021,Tata NEXON
+677,87.42k km,Petrol,Manual,"('1st', ' owner')",₹3.09 lakh,2014,Honda Amaze
+678,,Petrol,Manual,"('1st', ' owner')",₹7.95 lakh,2024,Maruti Dzire
+679,83.75k km,Petrol,Manual,"('1st', ' owner')",,2009,Maruti Zen Estilo
+680,,Petrol,Manual,"('1st', ' owner')",₹2.63 lakh,2013,Hyundai i20
+681,,Petrol,Manual,"('1st', ' owner')",₹3.76 lakh,2015,Maruti Swift
+682,88.87k km,Petrol,Manual,"('2nd', ' owner')",₹2.29 lakh,2012,Maruti Wagon R 1.0
+683,86.30k km,Diesel,Manual,"('2nd', ' owner')",₹6.28 lakh,2016,Maruti Vitara Brezza
+684,63.01k km,Petrol,Manual,"('2nd', ' owner')",₹2.00L₹2.06 lakh,2013,Hyundai i20
+685,85.07k km,Petrol,Manual,"('1st', ' owner')",₹3.18 lakh,2016,Maruti Wagon R 1.0
+686,82.23k km,Petrol,Manual,"('1st', ' owner')",₹2.33 lakh,2012,Maruti Wagon R 1.0
+687,76.23k km,Petrol,Manual,"('2nd', ' owner')",₹1.70 lakh,2012,Maruti Wagon R 1.0
+688,,Petrol,Manual,"('1st', ' owner')",₹11.00 lakh,2023,Volkswagen VIRTUS
+689,96.60k km,Petrol,Manual,,₹1.76 lakh,2014,Maruti Wagon R 1.0
+690,90.75k km,Petrol,Manual,"('2nd', ' owner')",₹3.31 lakh,2014,Maruti Swift
+691,53.14k km,Petrol,Auto,,₹6.27 lakh,2021,Hyundai GRAND I10 NIOS
+692,,Diesel,Manual,"('1st', ' owner')",₹2.20 lakh,2016,Mahindra Kuv100
+693,98.90k km,Diesel,Manual,,₹1.91 lakh,2014,Nissan Terrano
+694,,Diesel,Manual,,₹3.00 lakh,2014,Maruti Swift Dzire
+695,35.75k km,Petrol,Manual,,₹3.95 lakh,2017,Maruti Baleno
+696,51.02k km,Petrol,Manual,"('2nd', ' owner')",₹2.33 lakh,2013,Hyundai i20
+697,,Diesel,Manual,"('2nd', ' owner')",₹6.79 lakh,2017,Jeep Compass
+698,,Petrol,Manual,"('1st', ' owner')",₹3.40L₹3.00 lakh,2018,Tata TIGOR
+699,,Diesel,Manual,"('1st', ' owner')",,2010,Ford Figo
+700,55.06k km,Petrol,Manual,"('1st', ' owner')",₹3.93 lakh,2018,Hyundai Grand i10
+701,,Petrol,Manual,,₹1.15 lakh,2011,Maruti Alto
+702,,Diesel,Manual,"('1st', ' owner')",₹4.35 lakh,2012,Maruti Ertiga
+703,88.04k km,Petrol,Manual,"('2nd', ' owner')",₹7.07 lakh,2017,Hyundai Creta
+704,,Diesel,Manual,"('1st', ' owner')",₹19.76 lakh,2023,MG HECTOR PLUS
+705,,Diesel,Manual,"('2nd', ' owner')",₹5.27 lakh,2018,Mahindra TUV300
+706,65.09k km,Diesel,Manual,"('1st', ' owner')",₹2.18 lakh,2013,Nissan Sunny
+707,90.06k km,Diesel,Manual,"('1st', ' owner')",₹11.00 lakh,2022,KIA SELTOS
+708,59.85k km,Petrol,Manual,"('1st', ' owner')",₹9.30 lakh,2023,KIA SONET
+709,75.43k km,Petrol,Manual,"('1st', ' owner')",₹9.20 lakh,2022,Maruti XL6
+710,,Diesel,Manual,,₹2.63 lakh,2012,Mahindra XUV500
+711,,Diesel,Auto,,,2011,Audi A4
+712,76.26k km,Petrol,Auto,"('1st', ' owner')",₹8.85 lakh,2019,Hyundai VENUE
+713,,Petrol,Manual,,,2009,Hyundai i10
+714,56.16k km,Petrol,Manual,"('2nd', ' owner')",₹2.99 lakh,2018,Tata TIGOR
+715,,Petrol,Manual,"('1st', ' owner')",₹3.50 lakh,2018,Maruti Swift Dzire
+716,77.84k km,Petrol,Auto,"('2nd', ' owner')",₹4.50 lakh,2018,Toyota YARIS
+717,44.18k km,Petrol,Manual,"('1st', ' owner')",₹7.00L₹6.50 lakh,2021,Hyundai VENUE
+718,,Diesel,Manual,"('1st', ' owner')",₹1.72 lakh,2016,Ford Figo Aspire
+719,,Diesel,Manual,"('1st', ' owner')",₹3.25L₹3.40 lakh,2015,Maruti Baleno
+720,,Petrol,Manual,"('2nd', ' owner')",,2010,Maruti Swift
+721,59.93k km,Petrol,Manual,"('2nd', ' owner')",₹11.00 lakh,2023,Skoda KUSHAQ
+722,29.52k km,Diesel,Manual,"('1st', ' owner')",₹22.00 lakh,2024,MG HECTOR
+723,26.31k km,Petrol,Auto,"('2nd', ' owner')",₹5.90 lakh,2017,Maruti Dzire
+724,18.70k km,Petrol,Manual,"('2nd', ' owner')",₹5.69 lakh,2017,Maruti Dzire
+725,48.83k km,Petrol,Manual,"('1st', ' owner')",₹7.69 lakh,2022,Volkswagen Vento
+726,71.42k km,Petrol,Manual,"('1st', ' owner')",₹2.40 lakh,2012,Hyundai i10
+727,28.19k km,Petrol,Manual,"('1st', ' owner')",₹8.70 lakh,2022,KIA SONET
+728,75.55k km,Diesel,Manual,"('2nd', ' owner')",₹5.82 lakh,2017,Hyundai Elite i20
+729,13.77k km,Diesel,Manual,"('1st', ' owner')",₹14.25 lakh,2023,Mahindra Thar
+730,51.41k km,Petrol,Manual,"('2nd', ' owner')",₹2.60 lakh,2013,Honda Brio
+731,70.37k km,Petrol,Manual,"('1st', ' owner')",₹4.60L₹4.80 lakh,2015,Hyundai Elite i20
+732,22.88k km,Petrol,Auto,"('2nd', ' owner')",₹18.70 lakh,2022,Mahindra SCORPIO-N
+733,94.92k km,Diesel,Manual,,₹4.25 lakh,2014,Maruti Swift Dzire
+734,34.94k km,Petrol,Manual,,₹4.80L₹4.60 lakh,2020,Hyundai GRAND I10 NIOS
+735,66.30k km,Diesel,Manual,"('1st', ' owner')",₹4.50 lakh,2014,Maruti Swift Dzire
+736,74.98k km,Diesel,Manual,"('1st', ' owner')",₹6.25 lakh,2019,Maruti Dzire
+737,79.24k km,Petrol,Manual,,₹2.65 lakh,2013,Honda Brio
+738,25.98k km,Petrol,Manual,"('2nd', ' owner')",₹6.70 lakh,2022,Tata PUNCH
+739,65.25k km,Diesel,Manual,"('1st', ' owner')",₹11.50 lakh,2020,Hyundai Creta
+740,,Diesel,Manual,,₹3.75 lakh,2015,Volkswagen Polo
+741,82.98k km,Diesel,Manual,"('1st', ' owner')",₹5.45 lakh,2016,Hyundai Elite i20
+742,69.17k km,Diesel,Manual,"('1st', ' owner')",₹4.15 lakh,2015,Skoda Rapid
+743,78.12k km,Diesel,Manual,"('2nd', ' owner')",₹2.28 lakh,2017,Hyundai Xcent
+744,,Diesel,Manual,"('2nd', ' owner')",,2011,Mahindra Xylo
+745,73.95k km,Petrol,Manual,"('1st', ' owner')",₹6.05 lakh,2020,Tata NEXON
+746,24.62k km,Petrol,Manual,"('1st', ' owner')",₹5.20 lakh,2022,Hyundai GRAND I10 NIOS
+747,81.45k km,Diesel,Manual,,₹11.99 lakh,2019,Jeep Compass
+748,61.07k km,Diesel,Manual,"('2nd', ' owner')",₹3.82 lakh,2014,Honda Amaze
+749,,Diesel,Manual,,₹10.50 lakh,2017,Toyota Innova Crysta
+750,,Diesel,Manual,,₹3.10 lakh,2016,Ford Ecosport
+751,76.40k km,Diesel,Manual,"('1st', ' owner')",₹7.50 lakh,2018,Honda WR-V
+752,91.93k km,Petrol,Manual,"('2nd', ' owner')",,2010,Hyundai Santro Xing
+753,76.49k km,Diesel,Manual,"('1st', ' owner')",₹6.76 lakh,2018,Honda WR-V
+754,98.67k km,Petrol,Manual,"('1st', ' owner')",₹1.90L₹1.89 lakh,2012,Maruti Wagon R 1.0
+755,,Diesel,Manual,"('1st', ' owner')",₹3.50 lakh,2013,Maruti Swift
+756,61.65k km,Petrol,Manual,"('1st', ' owner')",₹3.98 lakh,2019,Hyundai GRAND I10 NIOS
+757,75.56k km,Petrol,Manual,,₹2.70 lakh,2014,Hyundai Xcent
+758,,Petrol,Manual,"('1st', ' owner')",₹3.50 lakh,2015,Maruti Swift
+759,66.05k km,Petrol,Manual,"('2nd', ' owner')",₹2.32 lakh,2018,Hyundai Eon
+760,56.00k km,Diesel,Manual,"('2nd', ' owner')",₹4.24L₹3.69 lakh,2017,Volkswagen Ameo
+761,,Diesel,Manual,"('1st', ' owner')",₹4.70 lakh,2020,Tata ALTROZ
+762,78.48k km,Diesel,Manual,"('2nd', ' owner')",₹2.13 lakh,2016,Hyundai XCENT PRIME
+763,93.31k km,Petrol,Manual,"('1st', ' owner')",₹3.91 lakh,2017,Hyundai Xcent
+764,,Petrol,Manual,"('1st', ' owner')",₹6.45 lakh,2019,Maruti Swift
+765,32.85k km,Petrol,Manual,"('2nd', ' owner')",₹2.71 lakh,2018,Renault Kwid
+766,,Petrol,Manual,"('1st', ' owner')",₹2.49 lakh,2011,Maruti Swift
+767,81.73k km,Petrol,Manual,"('2nd', ' owner')",₹1.71 lakh,2012,Hyundai Eon
+768,,Diesel,Manual,"('2nd', ' owner')",,2010,Maruti Swift Dzire
+769,,Petrol,Manual,,,2010,Maruti Eeco
+770,,Diesel,Manual,,₹2.70 lakh,2012,Hyundai Verna
+771,44.65k km,Petrol,Manual,"('1st', ' owner')",₹10.97 lakh,2022,Hyundai Creta
+772,,Petrol,Manual,,₹2.40 lakh,2011,Maruti Grand Vitara
+773,,Petrol,Manual,"('1st', ' owner')",,2010,Maruti Eeco
+774,,Petrol,Auto,"('2nd', ' owner')",₹7.71 lakh,2019,Tata NEXON
+775,28.22k km,Petrol,Manual,"('2nd', ' owner')",₹7.14L₹7.00 lakh,2021,Toyota Glanza
+776,,Petrol,Manual,"('2nd', ' owner')",₹2.65 lakh,2014,Maruti Celerio
+777,,Diesel,Manual,"('1st', ' owner')",₹14.90L₹14.75 lakh,2016,Toyota Innova Crysta
+778,20.97k km,Petrol,Manual,"('1st', ' owner')",₹4.44 lakh,2021,Renault Kwid
+779,28.50k km,Petrol,Manual,"('1st', ' owner')",₹9.85 lakh,2024,Hyundai VENUE
+780,90.83k km,Petrol,Manual,"('1st', ' owner')",₹4.50 lakh,2014,Hyundai Grand i10
+781,48.40k km,Petrol,Manual,"('2nd', ' owner')",₹8.58 lakh,2019,Hyundai Creta
+782,,Diesel,Manual,"('2nd', ' owner')",,2011,Maruti Swift
+783,28.18k km,Petrol,Auto,"('2nd', ' owner')",₹11.95 lakh,2019,MG HECTOR
+784,,Diesel,Manual,"('1st', ' owner')",₹11.26 lakh,2021,MG HECTOR PLUS
+785,,Petrol,Manual,,₹0.82 lakh,2011,Hyundai Accent
+786,82.45k km,Diesel,Manual,"('1st', ' owner')",₹14.62 lakh,2022,Tata Harrier
+787,94.82k km,Diesel,Auto,"('1st', ' owner')",₹12.50 lakh,2020,Tata Harrier
+788,,Petrol,Manual,"('2nd', ' owner')",₹1.50 lakh,2012,Maruti Wagon R 1.0
+789,92.54k km,Petrol,Manual,,₹2.28 lakh,2014,Honda Brio
+790,52.55k km,Petrol,Manual,"('1st', ' owner')",,2010,Maruti SX4
+791,,Petrol,Manual,"('2nd', ' owner')",,2010,Honda City
+792,52.09k km,Diesel,Auto,"('2nd', ' owner')",₹13.48 lakh,2017,Toyota Innova Crysta
+793,77.55k km,Diesel,Manual,"('1st', ' owner')",₹7.54 lakh,2017,Maruti Vitara Brezza
+794,32.95k km,Petrol,Manual,"('1st', ' owner')",₹9.24 lakh,2022,Maruti BREZZA
+795,,Petrol,Manual,"('2nd', ' owner')",₹3.76 lakh,2019,Maruti Swift
+796,37.50k km,Petrol,Manual,"('2nd', ' owner')",₹8.50 lakh,2020,KIA SELTOS
+797,67.28k km,Diesel,Manual,"('1st', ' owner')",₹11.65 lakh,2020,Mahindra Thar
+798,61.16k km,Petrol,Manual,"('1st', ' owner')",₹5.90 lakh,2021,Maruti Dzire
+799,,Diesel,Manual,"('2nd', ' owner')",,2014,Mahindra XUV500
+800,93.76k km,Petrol,Manual,"('2nd', ' owner')",₹0.81L₹1.09 lakh,2011,Hyundai i10
+801,,Petrol,Manual,"('1st', ' owner')",₹10.71 lakh,2024,Tata NEXON
+802,,Petrol,Manual,,₹1.41 lakh,2012,Maruti Swift Dzire
+803,,Petrol,Manual,"('2nd', ' owner')",₹0.99 lakh,2011,Hyundai i20
+804,82.03k km,Petrol,Manual,"('1st', ' owner')",₹3.65 lakh,2017,Maruti Baleno
+805,,Petrol,Manual,"('1st', ' owner')",₹2.00 lakh,2012,Maruti Wagon R 1.0
+806,38.14k km,Petrol,Manual,"('1st', ' owner')",₹2.00 lakh,2018,Renault Kwid
+807,98.56k km,Petrol,Auto,"('2nd', ' owner')",₹5.51 lakh,2014,Honda CRV
+808,,Petrol,Manual,"('2nd', ' owner')",₹1.71 lakh,2012,Maruti Wagon R 1.0
+809,,Diesel,Manual,,₹2.20 lakh,2012,Maruti Swift
+810,,Diesel,Manual,,₹1.92 lakh,2015,Hyundai Grand i10
+811,98.83k km,Diesel,Manual,"('2nd', ' owner')",₹1.18 lakh,2012,Volkswagen Polo
+812,80.24k km,Diesel,Manual,"('1st', ' owner')",₹2.68 lakh,2013,Hyundai Verna
+813,62.48k km,Petrol,Manual,"('1st', ' owner')",₹6.30L₹6.29 lakh,2022,Tata Tiago
+814,56.69k km,Petrol,Manual,"('1st', ' owner')",₹6.85 lakh,2022,Tata Tiago
+815,69.37k km,Petrol,Manual,"('1st', ' owner')",₹4.50L₹5.00 lakh,2019,Toyota Glanza
+816,,Diesel,Manual,,,2011,Volkswagen Polo
+817,48.49k km,Diesel,Manual,"('1st', ' owner')",₹8.20 lakh,2021,Mahindra Bolero
+818,,Diesel,Manual,"('1st', ' owner')",₹0.90 lakh,2014,Tata Indica Vista
+819,26.88k km,Petrol,Manual,"('1st', ' owner')",₹1.64 lakh,2012,Hyundai i10
+820,31.39k km,Petrol,Manual,"('1st', ' owner')",₹6.82 lakh,2022,Tata Tiago
+821,33.09k km,Diesel,Manual,,₹1.89 lakh,2013,Chevrolet Cruze
+822,81.58k km,Petrol,Manual,"('1st', ' owner')",₹4.75L₹4.80 lakh,2018,Tata NEXON
+823,36.58k km,Petrol,Manual,"('1st', ' owner')",₹6.30 lakh,2023,Maruti Baleno
+824,21.59k km,Diesel,Manual,"('1st', ' owner')",₹11.50 lakh,2022,Hyundai Creta
+825,48.00k km,Petrol,Manual,"('1st', ' owner')",₹8.60 lakh,2023,Hyundai VENUE
+826,81.76k km,Petrol,Manual,,₹0.83 lakh,2011,Hyundai i10
+827,,Diesel,Manual,"('2nd', ' owner')",₹2.80 lakh,2015,Maruti Swift
+828,17.81k km,Petrol,Auto,"('1st', ' owner')",₹11.50 lakh,2023,Maruti JIMNY
+829,63.35k km,Diesel,Manual,"('1st', ' owner')",₹4.90 lakh,2014,Renault Koleos
+830,93.09k km,Petrol,Manual,"('2nd', ' owner')",₹3.63 lakh,2017,Maruti Swift
+831,57.41k km,Petrol,Manual,"('1st', ' owner')",₹5.50 lakh,2023,Renault TRIBER
+832,,Petrol,Manual,"('1st', ' owner')",₹11.50 lakh,2024,Hyundai Verna
+833,67.14k km,Petrol,Manual,"('2nd', ' owner')",₹3.80 lakh,2018,Hyundai Grand i10
+834,,Petrol,Manual,"('1st', ' owner')",₹3.80 lakh,2020,Tata Tiago
+835,61.00k km,Petrol,Manual,"('1st', ' owner')",₹4.80 lakh,,
+836,60.08k km,Petrol,Manual,"('2nd', ' owner')",₹1.54 lakh,,
+837,42.31k km,Diesel,Manual,"('1st', ' owner')",₹13.00 lakh,,
+838,,Diesel,Manual,"('1st', ' owner')",₹13.35 lakh,,
+839,69.21k km,Petrol,Manual,"('2nd', ' owner')",₹2.50 lakh,,
+840,,Diesel,Manual,"('1st', ' owner')",₹2.75 lakh,,
+841,78.00k km,Petrol,Manual,"('1st', ' owner')",₹2.25 lakh,,
+842,48.64k km,Petrol,Manual,"('1st', ' owner')",₹5.50 lakh,,
+843,91.97k km,Petrol,Manual,"('1st', ' owner')",₹1.80 lakh,,
+844,55.25k km,Petrol,Manual,,₹1.62 lakh,,
+845,51.92k km,Petrol,Manual,"('1st', ' owner')",₹2.00 lakh,,
+846,96.32k km,Petrol,Manual,"('1st', ' owner')",₹2.00 lakh,,
+847,50.19k km,Diesel,Manual,"('1st', ' owner')",₹3.70 lakh,,
+848,56.38k km,Petrol,Auto,"('1st', ' owner')",₹6.26 lakh,,
+849,,Petrol,Manual,"('2nd', ' owner')",₹3.13 lakh,,
+850,,Petrol,Manual,"('1st', ' owner')",₹5.82 lakh,,
+851,47.00k km,Diesel,Manual,"('2nd', ' owner')",₹2.95 lakh,,
+852,88.21k km,Petrol,Manual,"('1st', ' owner')",,,
+853,,Petrol,Manual,"('1st', ' owner')",₹2.75 lakh,,
+854,40.96k km,Petrol,Manual,"('1st', ' owner')",₹1.59 lakh,,
+855,70.74k km,Petrol,Auto,,₹5.15 lakh,2018,Volkswagen Polo
+856,,Diesel,Manual,"('2nd', ' owner')",₹3.45 lakh,2012,Hyundai Verna
+857,,Petrol,Manual,"('1st', ' owner')",₹4.28 lakh,2019,Renault TRIBER
+858,,Petrol,Manual,"('2nd', ' owner')",₹2.95 lakh,2014,Maruti Ritz
+859,27.87k km,Petrol,Auto,"('1st', ' owner')",₹5.74 lakh,2021,Renault TRIBER
+860,,Diesel,Manual,"('1st', ' owner')",₹7.00 lakh,2018,Maruti S Cross
+861,39.82k km,Petrol,Manual,,₹5.20 lakh,2021,Volkswagen Polo
+862,,Diesel,Auto,"('1st', ' owner')",₹15.93 lakh,2020,Tata Harrier
+863,13.46k km,Petrol,Manual,"('1st', ' owner')",₹13.50 lakh,2023,Honda City
+864,,Diesel,Manual,"('1st', ' owner')",₹6.90 lakh,2019,Skoda Rapid
+865,,Petrol,Manual,"('1st', ' owner')",₹13.64 lakh,2024,Maruti XL6
+866,,Diesel,Auto,"('1st', ' owner')",₹6.60 lakh,2017,Skoda Rapid
+867,34.32k km,Petrol,Auto,"('1st', ' owner')",₹20.00 lakh,2022,Mahindra XUV700
+868,58.01k km,Diesel,Manual,"('1st', ' owner')",₹12.00 lakh,2020,KIA SELTOS
+869,17.54k km,Petrol,Auto,"('1st', ' owner')",₹16.27 lakh,2021,MG HECTOR
+870,69.95k km,Petrol,Auto,"('1st', ' owner')",₹13.00L₹12.75 lakh,2022,KIA SELTOS
+871,,Diesel,Manual,"('1st', ' owner')",₹13.17 lakh,2020,Tata Harrier
+872,27.40k km,Petrol,Auto,"('2nd', ' owner')",₹11.50L₹10.80 lakh,2019,MG HECTOR
+873,51.33k km,Diesel,Manual,"('2nd', ' owner')",₹13.06 lakh,2020,MG HECTOR PLUS
